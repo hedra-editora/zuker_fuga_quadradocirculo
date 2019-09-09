@@ -1,6 +1,6 @@
 \AtBeginDocument{%
-\begingroup\pagestyle{empty}\raggedright\parindent0pt
-\LARGE{\autor}
+\begingroup\pagestyle{empty}\raggedleft\parindent0pt
+{\Brabo{\titulagemfront{}}}
 \vfill
 \clearpage
 
@@ -53,74 +53,21 @@ R.~Fradique Coutinho, 1.139 (subsolo)\\
 \end{vplace}
 
 \endgroup
-
-%{\scriptsize\fakereceipt{
-%A CONTRACULTURA,\\
-%ENTRE A CURTIÇÃO\\
-%E O EXPERIMENTAL
-
-%\vspace{1cm}
-
-%CELSO FAVARETTO
-
-%\vspace{2cm}
-
-%DESENHOS\\
-%\vspace{0.5cm}
-%WALDOMIRO\\
-%\hspace{1.7cm}MUGRELISE\\
-
-%\vspace{1cm}
-
-%COLEÇÃO LAMPEJOS
-
-%\vspace{0.5cm}
-
-%PRIMEIRA EDIÇÃO
-
-%\vspace{0.5cm}
-
-%COPYRIGHT: HEDRA \& N-1\\
-%EDIÇÃO: RICARDO MUNIZ\\
-%PROJETO DA COLEÇÃO: L.KRÖEFF\\
-%TIRAGEM: 1\textsuperscript{A TIRAGEM} 300UN\\
-%ISBN: XXXXXXXXXXXXXXXXXXXXX\\
-
-%\vspace{1cm}
-
-%PUBLICADO POR\\
-%HEDRA \& N-1\\
-%SÃO PAULO, 2019\\
-%IMPRESSA SOB DEMANDA\\
-
-%\vspace{0.5cm}
-
-%RUA FRADIQUE COUTINHO, 1139\\
-%05416-011 SÃO PAULO, SP BRASIL
-%}}
-%\pagebreak
-
-%\vspace*{-80pt}
-%\begin{changemargin}{-40pt}{-60pt}
-%{\Formular{
-
-%\mbox{\textbf{Celso Favaretto} \hspace{0.6cm}\textbf{Celso Favaretto} \hspace{0.6cm}\textbf{Celso Favaretto}}\vspace*{-3pt}
-%\mbox{A contracultura, \hspace{0.7cm}A contracultura, \hspace{0.7cm}A contracultura,}\vspace*{-3pt}
-%\mbox{entre a curtição \hspace{0.7cm}entre a curtição \hspace{0.75cm}entre a curtição}\vspace*{-3pt}
-%\mbox{e o experimental \hspace{0.57cm}e o experimental \hspace{0.62cm}e o experimental}
-%}}
-%\end{changemargin}
-%% Front ---------------------------------------------------------
+\pagebreak\raggedleft
+%--------------------------------------------
 % Titulo
+\titulagem
 
 
-%{\LARGE{\autor} \par}%\vspace{1.5ex}}
-%\vspace{6cm} %9.3cm
-%\ifdef{\organizador}{{\small {\organizador} (\textit{organização})} \par}{}
-%\ifdef{\introdutor}{{\small {\introdutor} (\textit{prefácio})} \par}{}
-%\ifdef{\tradutor}{{\small {\tradutor} (\textit{tradução})}\par}{}\vspace{8.5mm}
+{\Brabo{
+{\Large \autor \par\vspace{1.5ex}}
+\ifdef{\organizador}{{\small {\organizador} (\textit{organização})} \par}{}
+\ifdef{\introdutor}{{\small {\introdutor} (\textit{introdução})} \par}{}
+\ifdef{\tradutor}{{\small {\tradutor} (\textit{tradução})}\par}{}\vspace{1.5cm}
+}}
 
-%{{\footnotesize{} \ifdef{\numeroedicao}{\numeroedicao}{2}ª edição} \par}
+{{\footnotesize{} \ifdef{\numeroedicao}{\numeroedicao}{1}ª edição} \par}
+
 %logos
 \vfill
 %\normalsize
