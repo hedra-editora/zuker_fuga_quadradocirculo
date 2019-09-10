@@ -5,8 +5,8 @@
 \contentsline {chapter}{A Pedagogia do Medo}{19}
 \contentsline {section}{Proposta}{19}
 \contentsline {section}{Neoliberalismo: o cultivo do medo}{21}
-\contentsline {section}{Por uma teoria visual do medo}{50}
-\contentsline {chapter}{Vozes da Amazônia\FN@sf@gobble@opt {\textsuperscript {Este ensaio foi previamente publicado no site da Agência de Jornalismo Amazônia Real}}}{89}
-\contentsline {chapter}{Vertigem. Por uma escrita do ruído}{127}
-\contentsline {chapter}{Apêndice. Xamanismo na esplanada}{177}
+\contentsline {section}{Por uma teoria visual do medo}{51}
+\contentsline {chapter}{Vozes da Amazônia\FN@sf@gobble@opt {Este ensaio foi previamente publicado no site da Agência de Jornalismo Amazônia Real.}}{91}
+\contentsline {chapter}{Vertigem. Por uma escrita do ruído}{129}
+\contentsline {chapter}{Apêndice. Xamanismo na esplanada}{179}
 \contentsfinish 
