@@ -315,12 +315,12 @@ INPUT /home/editorial/texmf/tex/endnotes.sty
 INPUT /home/editorial/texmf/tex/endnotes.sty
 INPUT /usr/share/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
 INPUT /usr/share/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
+INPUT /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/fs-brabo-pro-regular.luc
 INPUT /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/formular-regular.luc
 INPUT /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/formular-light.luc
 INPUT /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/formular-bold.luc
 INPUT /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/cobra-arisca-regular.luc
 INPUT /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/fake-receipt.luc
-INPUT /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/fs-brabo-pro-regular.luc
 INPUT /usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/afterpage.sty
@@ -359,6 +359,7 @@ OUTPUT LIVRO.pdf
 INPUT ./PRETAS.tex
 INPUT ./PRETAS.tex
 INPUT ./PRETAS.tex
+INPUT /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/formular-lightitalic.luc
 INPUT ./LIVRO.toc
 INPUT ./LIVRO.toc
 OUTPUT INPUTS.aux
