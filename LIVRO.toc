@@ -1,12 +1,12 @@
-\select@language {brazilian}
+\babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {part}{{\def \penalty -\@M {}Em rota de fuga}}{9}
 \contentsline {chapter}{Introdução}{13}
 \contentsline {chapter}{A Pedagogia do Medo}{19}
 \contentsline {section}{Proposta}{19}
 \contentsline {section}{Neoliberalismo: o cultivo do medo}{21}
-\contentsline {section}{Por uma teoria visual do medo}{50}
-\contentsline {chapter}{Vozes da Amazônia\FN@sf@gobble@opt {Este ensaio foi previamente publicado no site da Agência de Jornalismo Amazônia Real.}}{91}
-\contentsline {chapter}{Vertigem. Por uma escrita do ruído}{129}
-\contentsline {chapter}{Apêndice. Xamanismo na esplanada}{179}
+\contentsline {section}{Por uma teoria visual do medo}{49}
+\contentsline {chapter}{Vozes da Amazônia\FN@sf@gobble@opt {Este ensaio foi previamente publicado no site da Agência de Jornalismo Amazônia Real.}}{89}
+\contentsline {chapter}{Vertigem. Por uma escrita do ruído}{125}
+\contentsline {chapter}{Apêndice. Xamanismo na esplanada}{175}
 \contentsfinish 

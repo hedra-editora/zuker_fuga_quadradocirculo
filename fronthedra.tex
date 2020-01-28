@@ -1,6 +1,6 @@
 \AtBeginDocument{%
 \begingroup\pagestyle{empty}\raggedleft\parindent0pt
-{\Brabo{\titulagemfront{}}}
+{\Formular{\titulagemfront{}}}
 \vfill
 \clearpage
 
@@ -56,18 +56,16 @@ R.~Fradique Coutinho, 1.139 (subsolo)\\
 \pagebreak\raggedleft
 %--------------------------------------------
 % Titulo
-\titulagem
+{\Formular{\Huge{\titulagem}}}
+\vspace{11.25mm}
 
-
-{\Brabo{
-{\Large \autor \par\vspace{1.5ex}}
+{\LARGE{\autor} \par}%\vspace{1.5ex}}
+\vspace{6cm} %9.3cm
 \ifdef{\organizador}{{\small {\organizador} (\textit{organização})} \par}{}
-\ifdef{\introdutor}{{\small {\introdutor} (\textit{introdução})} \par}{}
-\ifdef{\tradutor}{{\small {\tradutor} (\textit{tradução})}\par}{}\vspace{1.5cm}
-}}
+\ifdef{\introdutor}{{\small {\introdutor} (\textit{introdução})} \par}{}\vspace{8.5mm}
+%\ifdef{\tradutor}{{\small {\tradutor} (\textit{tradução})}\par}{}\vspace{8.5mm}
 
 {{\footnotesize{} \ifdef{\numeroedicao}{\numeroedicao}{1}ª edição} \par}
-
 %logos
 \vfill
 %\normalsize
