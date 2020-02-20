@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  4 FEB 2020 15:07
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  20 FEB 2020 18:20
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.101 seconds
+luaotfload | main : initialization completed in 0.090 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1534,14 +1534,6 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 \@CTcurftwidth=\dimen322
 ))
 (/home/edlab/texmf/tex/versos.sty) (./gitrevisioninfo.sty)
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks36
-\symAMSa=\mathgroup7
-\symAMSb=\mathgroup8
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)
 (/home/edlab/texmf/tex/endnotes.sty
 \c@endnote=\count346
 \endnotesep=\dimen323
@@ -1648,7 +1640,7 @@ Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footers
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
 Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
-\AP@output=\toks37
+\AP@output=\toks36
 \AP@partial=\box57
 \AP@footins=\box58
 )
@@ -1658,9 +1650,9 @@ Package: placeins 2005/04/18  v 2.2
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count349
-\float@exts=\toks38
+\float@exts=\toks37
 \float@box=\box59
-\@float@everytoks=\toks39
+\@float@everytoks=\toks38
 \@floatcapt=\box60
 )
 (/usr/share/texlive/texmf-dist/tex/latex/paracol/paracol.sty
@@ -1685,7 +1677,7 @@ Package: paracol 2015/10/10 v1.32
 \pcol@prespan=\box62
 \pcol@rightpage=\box63
 \pcol@tempbox=\box64
-\pcol@everyvbox=\toks40
+\pcol@everyvbox=\toks39
 ) (./LIVRO.aux
 (./INPUTS.aux))
 \openout1 = LIVRO.aux
@@ -1738,7 +1730,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 . 
 . Adjusting the maths setup (use [no-math] to avoid this).
 .................................................
-\symlegacymaths=\mathgroup9
+\symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
 (Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 213.
 LaTeX Font Info:    Redeclaring math accent \acute on input line 213.
@@ -1808,12 +1800,12 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 \scratchbox=\box65
 \nofMPsegments=\count361
 \nofMParguments=\count362
-\everyMPshowfont=\toks41
+\everyMPshowfont=\toks40
 \MPscratchCnt=\count363
 \MPscratchDim=\dimen330
 \MPnumerator=\count364
 \makeMPintoPDFobject=\count365
-\everyMPtoPDFconversion=\toks42
+\everyMPtoPDFconversion=\toks41
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1829,7 +1821,7 @@ Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks43
+\pdftexcmds@toks=\toks42
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 43
 8.
@@ -1960,9 +1952,6 @@ Package microtype Info: Loading generic protrusion settings for font family
  (./INPUTS.tex (./ORIGINAL.tex [11
 
 
-Missing character: There is no  (U+0003) in font nullfont!
-Missing character: There is no ◯ (U+25EF) in font LinuxLibertineO:mode=node;sc
-ript=latn;language=DFLT;+tlig;!
 ]
 [12
 
@@ -1984,30 +1973,25 @@ File: ./imgs/im1.jpg Graphic file (type jpg)
 Package luatex.def Info: ./imgs/im1.jpg  used on input line 100.
 (luatex.def)             Requested size: 241.84842pt x 145.28468pt.
  [16<./imgs/im1.jpg>] [17]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 139.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 139.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 139.
+
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
-)
-LaTeX Font Info:    Try loading font information for U+msa on input line 139.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 139.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Formular-Light' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+
+
+LaTeX Font Warning: Font shape `TU/Formular-Light(0)/m/sc' undefined
+(Font)              using `TU/Formular-Light(0)/m/n' instead on input line 140.
 
 
 LaTeX Font Warning: Font shape `TU/Formular-Light(0)/m/it' undefined
@@ -2019,92 +2003,79 @@ Overfull \vbox (3.1189pt too high) has occurred while \output is active []
 
 [19
 
-] [20] [21] [22] [23] [24] [25] [26]
-Underfull \hbox (badness 2512) in paragraph at lines 342--342
-[]\TU/Formular-Light(0)/m/n/9 2. []FOU-CAULT, Mi-chel. Sé-cu-rité, ter-ri-toi
-re, po-pu-la-tion:
- []
-
-[27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41]
-[42]
-Underfull \hbox (badness 7740) in paragraph at lines 669--669
-[]\TU/Formular-Light(0)/m/it/9 9. []HAR-RIS, Mal-colm. http://ame-rica.al-ja-ze
--era.com/opi-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 669--669
-\TU/Formular-Light(0)/m/it/9 ni-ons/2015/12/the-real-cultural-explanation-for-s
-chool-
- []
-
-[43] [44] [45]
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 186.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 186.
+ [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33]
+[34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45]
 File: ./imgs/im1.jpg Graphic file (type jpg)
 <use ./imgs/im1.jpg>
 Package luatex.def Info: ./imgs/im1.jpg  used on input line 753.
 (luatex.def)             Requested size: 241.84842pt x 145.28468pt.
  [46] [47] [48]
+[49]
 File: ./imgs/im1.jpg Graphic file (type jpg)
 <use ./imgs/im1.jpg>
 Package luatex.def Info: ./imgs/im1.jpg  used on input line 819.
 (luatex.def)             Requested size: 165.02597pt x 99.13644pt.
- [49] [50]
-Underfull \hbox (badness 1762) in paragraph at lines 851--861
-[]\TU/LinuxLibertineO(0)/m/n/12 Os co-men-tá-rios de um amigo an-tro-pó-logo
- []
-
-[51] [52] [53] [54] [55] [56]
+ [50] [51] [52] [53] [54] [55] [56]
 File: ./imgs/im1.jpg Graphic file (type jpg)
 <use ./imgs/im1.jpg>
 Package luatex.def Info: ./imgs/im1.jpg  used on input line 987.
 (luatex.def)             Requested size: 241.84842pt x 145.28468pt.
- [57] [58] [59] [60] [61] [62] [63] [64] [65]
-[66] [67] [68] [69] [70]
+ [57] [58] [59] [60] [61] [62] [63]
+[64] [65] [66] [67] [68] [69] [70] [71]
 File: ./imgs/im1.jpg Graphic file (type jpg)
 <use ./imgs/im1.jpg>
 Package luatex.def Info: ./imgs/im1.jpg  used on input line 1304.
 (luatex.def)             Requested size: 241.84842pt x 145.28468pt.
- [71] [72] [73]
-Underfull \hbox (badness 1412) in paragraph at lines 1362--1371
-\TU/LinuxLibertineO(0)/m/n/12 a re-la-ção en-tre es-pec-ta-dor e jor-na-lis-t
-as norte-
+
+Underfull \hbox (badness 3769) in paragraph at lines 1323--1323
+[]\TU/Formular-Light(0)/m/sc/9 24. []Ci-tado em haw-kins, Joan (2000). Cut-ting
+ Edge:
  []
 
-[74] [75] [76] [77] [78]
+[72] [73] [74] [75] [76] [77] [78] [79] [80]
 File: ./imgs/im1.jpg Graphic file (type jpg)
 <use ./imgs/im1.jpg>
 Package luatex.def Info: ./imgs/im1.jpg  used on input line 1486.
 (luatex.def)             Requested size: 241.84842pt x 145.28468pt.
- [79] [80] [81] [82] [83] [84] [85]
+ [81] [82] [83] [84] [85] [86]
 File: ./imgs/im1.jpg Graphic file (type jpg)
 <use ./imgs/im1.jpg>
 Package luatex.def Info: ./imgs/im1.jpg  used on input line 1633.
 (luatex.def)             Requested size: 241.84842pt x 145.28468pt.
- [86] [87] [88
 
-]
+[87] [88]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 1639.
+
 Overfull \vbox (3.1189pt too high) has occurred while \output is active []
 
 
-[89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102]
+[89
+
+] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102]
 [103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114]
-[115] [116] [117] [118] [119] [120] [121] [122] [123] [124]
-Overfull \vbox (3.1189pt too high) has occurred while \output is active []
-
-
-[125
-
-] [126] [127] [128] [129] [130] [131] [132] [133] [134] [135] [136]
-[137] [138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148]
-[149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160]
-[161] [162] [163] [164] [165] [166] [167] [168] [169] [170] [171] [172]
-[173] [174
+[115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125] [126
 
 ]
 Overfull \vbox (3.1189pt too high) has occurred while \output is active []
 
 
-[175] [176] [177] [178])) [179]
+[127] [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138]
+[139] [140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150]
+[151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161] [162]
+[163] [164] [165] [166] [167] [168] [169] [170] [171] [172] [173] [174]
+[175] [176
+
+]
+Overfull \vbox (3.1189pt too high) has occurred while \output is active []
+
+
+[177] [178] [179] [180])) [181]
 
 Class memoir Warning: The material used in the headers is too large
 (14.49998pt) for the given head height (11.38109pt), it is recommended to
@@ -2123,14 +2094,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 25863 strings out of 494480
+ 25701 strings out of 494480
  1164392,794899 words of node,token memory allocated
- 1099919 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 38 glue, 1 penalty, 173361 glyph, 25008 attribute, 
-197 glue_spec, 4168 attribute_list, 3 shape, 4 write nodes
-   avail lists: 1:4,2:671,3:57,4:43,5:256,6:1170,7:867,8:49,9:189,10:20,11:324
- 28540 multiletter control sequences out of 65536+600000
- 138 fonts using 21929747 bytes
+ 1102129 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 38 glue, 1 penalty, 173468 glyph, 25680 attribute, 
+197 glue_spec, 4280 attribute_list, 3 shape, 4 write nodes
+   avail lists: 1:5,2:671,3:72,4:44,5:263,6:1175,7:793,8:49,9:192,10:20,11:332
+ 28430 multiletter control sequences out of 65536+600000
+ 117 fonts using 20310179 bytes
  61i,14n,79p,1369b,503s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/edlab/texmf/tex/fonts/Formular-Regular.otf></home/edlab/texmf/tex/fonts/F
 ormular-LightItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/lib
@@ -2139,10 +2110,10 @@ libertine/LinLibertine_R.otf></usr/share/texlive/texmf-dist/fonts/opentype/publi
 c/libertine/LinLibertine_RB.otf></home/edlab/texmf/tex/fonts/Formular-Light.otf>
 </home/edlab/texmf/tex/fonts/Formular-Bold.otf></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (179 pages, 431709 bytes).
+Output written on LIVRO.pdf (181 pages, 435018 bytes).
 
-PDF statistics: 620 PDF objects out of 1000 (max. 8388607)
- 411 compressed objects within 5 object streams
+PDF statistics: 627 PDF objects out of 1000 (max. 8388607)
+ 416 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
