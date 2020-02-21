@@ -2,7 +2,7 @@
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {part}{{\def \penalty -\@M {}Em rota de fuga}}{9}
 \contentsline {chapter}{Introdução}{13}
-\contentsline {chapter}{A Pedagogia do Medo}{19}
+\contentsline {chapter}{A pedagogia do medo}{19}
 \contentsline {section}{Proposta}{19}
 \contentsline {section}{Neoliberalismo: o cultivo do medo}{21}
 \contentsline {section}{Por uma teoria visual do medo}{50}

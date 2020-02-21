@@ -417,8 +417,6 @@ INPUT ./imgs/im1.jpg
 INPUT ./imgs/im1.jpg
 INPUT ./imgs/im1.jpg
 INPUT ./imgs/im1.jpg
-INPUT ./imgs/im1.jpg
-INPUT ./imgs/im1.jpg
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
