@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1582319276 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1582319280
+["pdflatex"] 1582321548 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1582321553
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-bold.luc" 1576263835 145430 7b3578e57e11d1a755424bcbaeaae888 ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-light.luc" 1576608809 152684 5cbc594f812d3faf720a15c1d00d440a ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-lightitalic.luc" 1576610006 151207 df798827b4e3c97a8cd8090075ab5dcc ""
@@ -230,12 +230,12 @@
   "/usr/share/texlive/texmf-dist/tex/plain/ifetex/ifetex.tex" 1480098846 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/tex/generic/config/language.dat" 1568390393 5068 f7f3bc7f417c156a3f8ad000ec95e50f ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1568390407 1349090 037f174be86cf28c8ddf3a93c1b55c78 ""
-  "INPUTS.aux" 1582319280 6197 aa27dbadc1a488787f4efd08ab0a93af ""
+  "INPUTS.aux" 1582321552 6311 ed90d0d6086e32095c8b39b6a43b6367 ""
   "INPUTS.tex" 1576608725 63 97740e5cac6f5f38b67100cbc462cb86 ""
-  "LIVRO.aux" 1582319280 455 f02cb2dc33ba9d7b5f6fb04aedb55d3e ""
+  "LIVRO.aux" 1582321552 455 f02cb2dc33ba9d7b5f6fb04aedb55d3e ""
   "LIVRO.tex" 1582319155 5894 d4839c48fc129ac27bbde4487cbfb6ec ""
-  "LIVRO.toc" 1582319280 678 70d0d3ac92db0560df1cea8df0c341bd ""
-  "ORIGINAL.tex" 1582319264 209642 1b489abba859d9651cc2a1c4a3bd57cc ""
+  "LIVRO.toc" 1582321552 791 7067b3f3cc1aa43cc45a0d0d7381a8c8 ""
+  "ORIGINAL.tex" 1582321545 209709 e4a50a8ee72e4faa078642d109c4720e ""
   "PRETAS.tex" 1582232307 797 005d841e60433bd109cc90042bc6f5cd ""
   "fichatecnica.sty" 1582231835 2340 1fc6e0ad5de146e3c4343e9b8d8b1a9c ""
   "fronthedra.tex" 1582231940 4113 98154a32881034cc38dda9ec4376b0c2 ""
@@ -246,8 +246,8 @@
   "imgs/im1.jpg" 1576608725 1499 4f2f57c3e11e61795f97ceb7a9caf8bc ""
   "tipografia.sty" 1576608725 9969 4482ee9ca783c256e73b20cb46d97e8c ""
   (generated)
-  "LIVRO.aux"
-  "LIVRO.pdf"
-  "INPUTS.aux"
-  "LIVRO.toc"
   "LIVRO.log"
+  "INPUTS.aux"
+  "LIVRO.aux"
+  "LIVRO.toc"
+  "LIVRO.pdf"
