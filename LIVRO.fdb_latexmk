@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1582579497 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1582579501
+["pdflatex"] 1582579497 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1582579950
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-bold.luc" 1576263835 145430 7b3578e57e11d1a755424bcbaeaae888 ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-light.luc" 1576608809 152684 5cbc594f812d3faf720a15c1d00d440a ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-lightitalic.luc" 1576610006 151207 df798827b4e3c97a8cd8090075ab5dcc ""
@@ -246,8 +246,8 @@
   "imgs/im1.jpg" 1576608725 1499 4f2f57c3e11e61795f97ceb7a9caf8bc ""
   "tipografia.sty" 1576608725 9969 4482ee9ca783c256e73b20cb46d97e8c ""
   (generated)
-  "LIVRO.log"
-  "LIVRO.aux"
   "LIVRO.pdf"
-  "LIVRO.toc"
+  "LIVRO.log"
   "INPUTS.aux"
+  "LIVRO.toc"
+  "LIVRO.aux"
