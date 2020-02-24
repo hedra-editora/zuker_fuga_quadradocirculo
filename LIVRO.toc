@@ -6,7 +6,7 @@
 \contentsline {section}{Proposta}{19}
 \contentsline {section}{Neoliberalismo: o cultivo do medo}{21}
 \contentsline {section}{Por uma teoria visual do medo}{50}
-\contentsline {chapter}{Vozes da Amazônia\footnote {Este ensaio foi previamente publicado no site da {\fontspec [SmallCapsFeatures={FakeSlant=0.6}]{Formular-LightItalic}\textsc {Agência de Jornalismo Amazônia Real.}\fontspec []{FormularLight-Italic}}}}{89}
+\contentsline {chapter}{Vozes da Amazônia}{89}
 \contentsline {chapter}{Vertigem. Por uma escrita do ruído}{127}
 \contentsline {chapter}{Apêndice. Xamanismo na esplanada}{177}
 \contentsfinish 
