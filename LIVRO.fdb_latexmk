@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1582579497 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1582579950
+["pdflatex"] 1582824657 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1582824738
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-bold.luc" 1576263835 145430 7b3578e57e11d1a755424bcbaeaae888 ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-light.luc" 1576608809 152684 5cbc594f812d3faf720a15c1d00d440a ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-lightitalic.luc" 1576610006 151207 df798827b4e3c97a8cd8090075ab5dcc ""
@@ -230,12 +230,12 @@
   "/usr/share/texlive/texmf-dist/tex/plain/ifetex/ifetex.tex" 1480098846 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/tex/generic/config/language.dat" 1568390393 5068 f7f3bc7f417c156a3f8ad000ec95e50f ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1568390407 1349090 037f174be86cf28c8ddf3a93c1b55c78 ""
-  "INPUTS.aux" 1582579501 6026 524181da2c738bce1c87271046673ef8 ""
+  "INPUTS.aux" 1582824662 6026 524181da2c738bce1c87271046673ef8 ""
   "INPUTS.tex" 1576608725 63 97740e5cac6f5f38b67100cbc462cb86 ""
-  "LIVRO.aux" 1582579501 455 f02cb2dc33ba9d7b5f6fb04aedb55d3e ""
+  "LIVRO.aux" 1582824662 455 f02cb2dc33ba9d7b5f6fb04aedb55d3e ""
   "LIVRO.tex" 1582577258 6004 481c88e24670e42f9986c012aabe6f7f ""
-  "LIVRO.toc" 1582579501 579 84f1111c33b989f7101948fd6bb6b7fe ""
-  "ORIGINAL.tex" 1582579489 209931 c1ab5ef3466b4a95f73f74d3ae9b554b ""
+  "LIVRO.toc" 1582824662 579 84f1111c33b989f7101948fd6bb6b7fe ""
+  "ORIGINAL.tex" 1582823105 209417 2a6ac8ca5f0ad52925ae3757b4433aed ""
   "PRETAS.tex" 1582232307 797 005d841e60433bd109cc90042bc6f5cd ""
   "fichatecnica.sty" 1582231835 2340 1fc6e0ad5de146e3c4343e9b8d8b1a9c ""
   "fronthedra.tex" 1582231940 4113 98154a32881034cc38dda9ec4376b0c2 ""
@@ -247,7 +247,7 @@
   "tipografia.sty" 1576608725 9969 4482ee9ca783c256e73b20cb46d97e8c ""
   (generated)
   "LIVRO.pdf"
-  "LIVRO.log"
-  "INPUTS.aux"
   "LIVRO.toc"
+  "INPUTS.aux"
   "LIVRO.aux"
+  "LIVRO.log"
