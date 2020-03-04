@@ -3,10 +3,10 @@
 \contentsline {part}{{\def \penalty -\@M {}Em rota de fuga}}{9}
 \contentsline {chapter}{Introdução}{13}
 \contentsline {chapter}{A pedagogia do medo}{19}
-\contentsline {section}{Proposta}{19}
-\contentsline {section}{Neoliberalismo: o cultivo do medo}{20}
-\contentsline {section}{Por uma teoria visual do medo}{49}
+\contentsline {section}{\unhbox \voidb@x {\parindent =1,4em\indent }{}Neoliberalismo: o cultivo do medo}{21}
+\contentsline {section}{\unhbox \voidb@x {\parindent =1,4em\indent }{}Por uma teoria visual do medo}{50}
 \contentsline {chapter}{Vozes da Amazônia}{89}
 \contentsline {chapter}{Vertigem. Por uma escrita do ruído}{127}
-\contentsline {chapter}{Apêndice. Xamanismo na esplanada}{177}
+\contentsline {chapter}{A incerteza política em 2018}{175}
+\contentsline {chapter}{Apêndice. Xamanismo na esplanada}{183}
 \contentsfinish 
