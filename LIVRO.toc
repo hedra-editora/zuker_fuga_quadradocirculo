@@ -3,10 +3,10 @@
 \contentsline {part}{{\def \penalty -\@M {}Em rota de fuga}}{9}
 \contentsline {chapter}{Introdução}{13}
 \contentsline {chapter}{A pedagogia do medo}{19}
-\contentsline {section}{\unhbox \voidb@x {\parindent =1,4em\indent }{}Neoliberalismo: o cultivo do medo}{21}
-\contentsline {section}{\unhbox \voidb@x {\parindent =1,4em\indent }{}Por uma teoria visual do medo}{50}
+\contentsline {section}{\unhbox \voidb@x {\parindent =1,4em\indent }{}Neoliberalismo e a educação sentimental}{21}
+\contentsline {section}{\unhbox \voidb@x {\parindent =1,4em\indent }{}Pequena teoria visual do medo}{51}
 \contentsline {chapter}{Vozes da Amazônia}{89}
 \contentsline {chapter}{Vertigem. Por uma escrita do ruído}{127}
-\contentsline {chapter}{A incerteza política em 2018}{175}
+\contentsline {chapter}{A incerteza política em 2018: uma coleção de sonhos e pesadelos, {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\emph {com William Zeytounlian}}}}{175}
 \contentsline {chapter}{Apêndice. Xamanismo na esplanada}{183}
 \contentsfinish 
