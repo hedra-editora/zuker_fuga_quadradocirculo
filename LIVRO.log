@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  13 MAR 2020 18:48
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  16 MAR 2020 14:25
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.108 seconds
+luaotfload | main : initialization completed in 0.094 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1981,9 +1981,9 @@ Package luatex.def Info: ./imgs/cuts.jpg  used on input line 140.
 
 ] [20]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 186.
+(Font)              <7> on input line 190.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 186.
+(Font)              <5> on input line 190.
  [21] [22] [23] [24] [25] [26]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 337.
@@ -2086,12 +2086,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of LuaTeX's memory you used:
  26126 strings out of 494480
  1164392,794899 words of node,token memory allocated
- 1128987 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 43 glue, 1 penalty, 177482 glyph, 26856 attribute, 
-196 glue_spec, 4476 attribute_list, 3 shape, 4 write nodes
-   avail lists: 1:4,2:671,3:80,4:44,5:278,6:1118,7:877,8:58,9:198,10:21,11:350
+ 1129739 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 43 glue, 1 penalty, 177605 glyph, 26862 attribute, 
+196 glue_spec, 4477 attribute_list, 3 shape, 4 write nodes
+   avail lists: 1:2,2:671,3:80,4:46,5:286,6:1118,7:877,8:58,9:198,10:21,11:350
  28483 multiletter control sequences out of 65536+600000
- 130 fonts using 21978971 bytes
+ 130 fonts using 21979031 bytes
  61i,14n,79p,1369b,603s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/edlab/texmf/tex/fonts/Formular-Regular.otf></home/edlab/texmf/tex/fonts/F
 ormular-LightItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/lib
@@ -2100,7 +2100,7 @@ libertine/LinLibertine_R.otf></usr/share/texlive/texmf-dist/fonts/opentype/publi
 c/libertine/LinLibertine_RB.otf></home/edlab/texmf/tex/fonts/Formular-Light.otf>
 </home/edlab/texmf/tex/fonts/Formular-Bold.otf></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (187 pages, 2389334 bytes).
+Output written on LIVRO.pdf (187 pages, 2389618 bytes).
 
 PDF statistics: 651 PDF objects out of 1000 (max. 8388607)
  428 compressed objects within 5 object streams

@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1584136128 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1584136133
+["pdflatex"] 1584379522 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1584379528
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-bold.luc" 1576263835 145430 7b3578e57e11d1a755424bcbaeaae888 ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-light.luc" 1576608809 152684 5cbc594f812d3faf720a15c1d00d440a ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-lightitalic.luc" 1576610006 151207 df798827b4e3c97a8cd8090075ab5dcc ""
@@ -230,13 +230,13 @@
   "/usr/share/texlive/texmf-dist/tex/plain/ifetex/ifetex.tex" 1480098846 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/tex/generic/config/language.dat" 1568390393 5068 f7f3bc7f417c156a3f8ad000ec95e50f ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1568390407 1349090 037f174be86cf28c8ddf3a93c1b55c78 ""
-  "INPUTS.aux" 1584136133 6093 fa10570d67026ee37ded4d2daf3c8787 ""
+  "INPUTS.aux" 1584379527 6093 fa10570d67026ee37ded4d2daf3c8787 ""
   "INPUTS.tex" 1576608725 63 97740e5cac6f5f38b67100cbc462cb86 ""
-  "LIVRO.aux" 1584136133 455 cca31d373f9fad4b7f07c928f1c126d4 ""
+  "LIVRO.aux" 1584379527 455 cca31d373f9fad4b7f07c928f1c126d4 ""
   "LIVRO.tex" 1584044020 6304 558f5e65a34ef5d2765c09f233058b84 ""
-  "LIVRO.toc" 1584136133 1164 48398bbf685a487a10962d59fad078e5 ""
-  "ORIGINAL.tex" 1584136124 216386 df7791e2cfddcbbb8cb029b87e5b6ae5 ""
-  "PRETAS.tex" 1582232307 797 005d841e60433bd109cc90042bc6f5cd ""
+  "LIVRO.toc" 1584379527 1164 48398bbf685a487a10962d59fad078e5 ""
+  "ORIGINAL.tex" 1584379493 216606 cc84b91845f88f47a644c335ef1f7e21 ""
+  "PRETAS.tex" 1584379503 806 1d26c02da1c77cb57fb18c634392ad41 ""
   "fichatecnica.sty" 1583184036 2341 7285b161763ceb574698efbc7a8df698 ""
   "fronthedra.tex" 1582231940 4113 98154a32881034cc38dda9ec4376b0c2 ""
   "frontlayout.sty" 1580248441 1745 448cbabebb4f39619249ccbdaff75617 ""
@@ -253,7 +253,7 @@
   "tipografia.sty" 1576608725 9969 4482ee9ca783c256e73b20cb46d97e8c ""
   (generated)
   "LIVRO.aux"
+  "LIVRO.pdf"
   "INPUTS.aux"
   "LIVRO.toc"
   "LIVRO.log"
-  "LIVRO.pdf"
