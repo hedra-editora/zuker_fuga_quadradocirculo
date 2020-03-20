@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  18 MAR 2020 16:29
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  20 MAR 2020 15:01
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.087 seconds
+luaotfload | main : initialization completed in 0.094 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1957,11 +1957,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 ] [13] [14] [15] [16]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 131.
+(Font)              <12> on input line 128.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 131.
+(Font)              <8> on input line 128.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 131.
+(Font)              <6> on input line 128.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
@@ -1975,27 +1975,27 @@ Package microtype Info: Loading generic protrusion settings for font family
 <./imgs/cuts.jpg, id=63, 803.0pt x 645.41125pt>
 File: ./imgs/cuts.jpg Graphic file (type jpg)
 <use ./imgs/cuts.jpg>
-Package luatex.def Info: ./imgs/cuts.jpg  used on input line 140.
+Package luatex.def Info: ./imgs/cuts.jpg  used on input line 137.
 (luatex.def)             Requested size: 241.84842pt x 194.38318pt.
  [18<./imgs/cuts.jpg>] [19
 
 ] [20]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 190.
+(Font)              <7> on input line 187.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 190.
+(Font)              <5> on input line 187.
  [21] [22] [23] [24] [25] [26]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 337.
+(Font)              <10.95> on input line 334.
 
-Underfull \hbox (badness 1635) in paragraph at lines 339--339
+Underfull \hbox (badness 1635) in paragraph at lines 336--336
 \TU/FormularLight-Italic(0)/m/n/9 au Collège de France, 1977-1978\TU/Formular-
 Light(0)/m/n/9 . Pa-ris: Gal-li-mard/Seuil,
  []
 
 [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41]
 [42]
-Overfull \hbox (8.67033pt too wide) in paragraph at lines 668--668
+Overfull \hbox (8.67033pt too wide) in paragraph at lines 665--665
 []\TU/Formular-Light(0)/m/n/9 9. [][], Mal-colm. []| 
  []
 
@@ -2003,20 +2003,20 @@ Overfull \hbox (8.67033pt too wide) in paragraph at lines 668--668
 <./imgs/frame1.png, id=151, 602.25pt x 401.5pt>
 File: ./imgs/frame1.png Graphic file (type png)
 <use ./imgs/frame1.png>
-Package luatex.def Info: ./imgs/frame1.png  used on input line 744.
+Package luatex.def Info: ./imgs/frame1.png  used on input line 741.
 (luatex.def)             Requested size: 241.84842pt x 161.23428pt.
  [46] [47<./imgs/frame1.png>] [48] [49]
 <./imgs/frame2.jpg, id=164, 1783.66376pt x 1002.74625pt>
 File: ./imgs/frame2.jpg Graphic file (type jpg)
 <use ./imgs/frame2.jpg>
-Package luatex.def Info: ./imgs/frame2.jpg  used on input line 814.
+Package luatex.def Info: ./imgs/frame2.jpg  used on input line 811.
 (luatex.def)             Requested size: 241.84842pt x 135.96162pt.
  [50<./imgs/frame2.jpg>]
 [51] [52] [53] [54]
 <./imgs/francesca.jpg, id=182, 310.15875pt x 513.92pt>
 File: ./imgs/francesca.jpg Graphic file (type jpg)
 <use ./imgs/francesca.jpg>
-Package luatex.def Info: ./imgs/francesca.jpg  used on input line 917.
+Package luatex.def Info: ./imgs/francesca.jpg  used on input line 914.
 (luatex.def)             Requested size: 241.84842pt x 400.73051pt.
  [55]
 
@@ -2030,7 +2030,7 @@ Overfull \vbox (6.0805pt too high) has occurred while \output is active []
 <./imgs/decapitacao.png, id=192, 1204.5pt x 818.05624pt>
 File: ./imgs/decapitacao.png Graphic file (type png)
 <use ./imgs/decapitacao.png>
-Package luatex.def Info: ./imgs/decapitacao.png  used on input line 981.
+Package luatex.def Info: ./imgs/decapitacao.png  used on input line 978.
 (luatex.def)             Requested size: 241.84842pt x 164.24495pt.
  [58<./imgs/decapitacao.png>] [59] [60] [61]
 [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76]
@@ -2038,20 +2038,20 @@ Package luatex.def Info: ./imgs/decapitacao.png  used on input line 981.
 <./imgs/chile.jpg, id=264, 850.17625pt x 467.7475pt>
 File: ./imgs/chile.jpg Graphic file (type jpg)
 <use ./imgs/chile.jpg>
-Package luatex.def Info: ./imgs/chile.jpg  used on input line 1451.
+Package luatex.def Info: ./imgs/chile.jpg  used on input line 1448.
 (luatex.def)             Requested size: 241.84842pt x 133.0596pt.
  [81] [82<./imgs/chile.jpg>] [83] [84] [85] [86] [87]
 <./imgs/crer.png, id=287, 1074.0125pt x 778.91pt>
 File: ./imgs/crer.png Graphic file (type png)
 <use ./imgs/crer.png>
-Package luatex.def Info: ./imgs/crer.png  used on input line 1597.
+Package luatex.def Info: ./imgs/crer.png  used on input line 1593.
 (luatex.def)             Requested size: 241.84842pt x 175.38982pt.
 
 [88] [89<./imgs/crer.png>] [90
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 1602.
+(Font)              <17.28> on input line 1598.
  [91] [92] [93] [94] [95] [96] [97] [98]
 [99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111]
 [112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123]
@@ -2062,9 +2062,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [148] [149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159]
 [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170] [171]
 [172] [173] [174] [175] [176]
-Underfull \hbox (badness 1062) in paragraph at lines 3355--3355
-[]\TU/Formular-Light(0)/m/n/9 1. []Ar-tigo ori-gi-nal-mente pu-bli-cado no \TU/
-FormularLight-Italic(0)/m/n/9 Nexo Jor-nal \TU/Formular-Light(0)/m/n/9 em
+Underfull \hbox (badness 1721) in paragraph at lines 3327--3327
+[]\TU/Formular-Light(0)/m/n/9 1. []Texto ori-gi-nal-mente pu-bli-cado no \TU/Fo
+rmularLight-Italic(0)/m/n/9 Nexo Jor-nal \TU/Formular-Light(0)/m/n/9 em
  []
 
 [177
@@ -2086,12 +2086,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of LuaTeX's memory you used:
  26126 strings out of 494480
  1164392,794899 words of node,token memory allocated
- 1133461 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 43 glue, 1 penalty, 178076 glyph, 27246 attribute, 
-196 glue_spec, 4541 attribute_list, 3 shape, 4 write nodes
-   avail lists: 1:4,2:649,3:80,4:45,5:288,6:1098,7:877,8:58,9:198,10:21,11:350
+ 1132289 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 43 glue, 1 penalty, 177883 glyph, 27240 attribute, 
+196 glue_spec, 4540 attribute_list, 3 shape, 4 write nodes
+   avail lists: 1:4,2:649,3:78,4:42,5:288,6:1099,7:844,8:58,9:198,10:21,11:343
  28483 multiletter control sequences out of 65536+600000
- 130 fonts using 21979151 bytes
+ 130 fonts using 21978911 bytes
  61i,14n,79p,1369b,603s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/edlab/texmf/tex/fonts/Formular-Regular.otf></home/edlab/texmf/tex/fonts/F
 ormular-LightItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/lib
@@ -2100,7 +2100,7 @@ libertine/LinLibertine_R.otf></usr/share/texlive/texmf-dist/fonts/opentype/publi
 c/libertine/LinLibertine_RB.otf></home/edlab/texmf/tex/fonts/Formular-Light.otf>
 </home/edlab/texmf/tex/fonts/Formular-Bold.otf></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (190 pages, 2392257 bytes).
+Output written on LIVRO.pdf (190 pages, 2392139 bytes).
 
 PDF statistics: 660 PDF objects out of 1000 (max. 8388607)
  434 compressed objects within 5 object streams
