@@ -36,6 +36,12 @@
   \let\@afterindentfalse\@afterindenttrue
 }
 \makeatother
+
+\makeatletter
+\def\@xfootnote[#1]{%
+  \protected@xdef\@thefnmark{#1}%
+  \@footnotemark\@footnotetext}
+\makeatother
 %\usepackage{fancyhdr}
 %\pagestyle{fancy}
 %\setlength{\headheight}{9mm}
