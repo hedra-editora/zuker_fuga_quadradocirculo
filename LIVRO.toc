@@ -1,13 +1,13 @@
 \babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {part}{{\def \penalty -\@M {}Em rota de fuga}}{9}
+\contentsline {chapter}{EM ROTA DE FUGA \vspace \medskipamount }{9}
 \contentsline {chapter}{Introdução}{13}
 \contentsline {chapter}{A pedagogia do medo}{19}
-\contentsline {section}{\unhbox \voidb@x {\parindent =1,4em\indent }{}Neoliberalismo e a educação sentimental}{21}
-\contentsline {section}{\unhbox \voidb@x {\parindent =1,4em\indent }{}Pequena teoria visual do medo}{51}
-\contentsline {chapter}{Vozes da Amazônia}{91}
-\contentsline {chapter}{Vertigem. Por uma escrita do ruído}{129}
-\contentsline {chapter}{A incerteza política em 2018: uma coleção de sonhos e pesadelos, {\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\emph {com William Zeytounlian}}}}{177}
-\contentsline {chapter}{Jair Bolsonaro: massa, vírus e poder}{185}
-\contentsline {chapter}{Apêndice. Xamanismo na esplanada}{203}
+\contentsline {section}{\hspace {.2cm}Neoliberalismo e a educação sentimental}{21}
+\contentsline {section}{\hspace {.2cm}Pequena teoria visual do medo}{50}
+\contentsline {chapter}{Vozes da Amazônia}{87}
+\contentsline {chapter}{Vertigem. Por uma escrita do ruído}{123}
+\contentsline {chapter}{A incerteza política em 2018: uma coleção de sonhos e pesadelos, {\relax \fontsize {8}{9.5}\selectfont {{\fontspec [SmallCapsFeatures={FakeSlant=0.6}]{Formular-LightItalic}\textsc {com William Zeytounlian}\fontspec []{FormularLight-Italic}}}}}{169}
+\contentsline {chapter}{Jair Bolsonaro: massa, vírus e poder}{177}
+\contentsline {chapter}{Apêndice. Xamanismo na esplanada}{195}
 \contentsfinish 

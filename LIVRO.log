@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  23 APR 2020 14:51
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  19 MAY 2020 17:13
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.105 seconds
+luaotfload | main : initialization completed in 0.081 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -66,11 +66,11 @@ Package ifluatex Info: LuaTeX detected.
 \trimtop=\skip46
 \trimedge=\skip47
 
-(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem12.clo
-File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem11.clo
+File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 luaotfload | db : Font names database loaded from /home/edlab/.texlive2017/texmf
 -var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /home/edlab/.texl
-ive2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.luc))
+ive2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc))
 \binding=\skip48
 \spinemargin=\skip49
 \foremargin=\skip50
@@ -276,7 +276,7 @@ LaTeX Info: Redefining \emph on input line 7559.
 \m@m@h=\dimen142
 \m@mipn@skip=\skip165
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmr
-oman10-regular.luc)
+oman9-regular.luc)
 \sidefootins=\insert195
 \sidefootadjust=\skip166
 \sidefootheight=\skip167
@@ -368,11 +368,9 @@ Package tocloft [2008/07/23] emulated by memoir.
 Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
-
-(/usr/share/texlive/texmf-dist/tex/latex/memoir/mempatch.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/memoir/mempatch.sty
 Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
-))
-(./hedraoptions.sty
+)) (./hedraoptions.sty
 
 Class memoir Warning: \marginparsep is zero or negative on input line 165.
 
@@ -381,19 +379,19 @@ Class memoir Warning: \marginparsep is zero or negative on input line 165.
 Stock height and width: 794.96999pt by 614.295pt
 Top and edge trims: 56.9055pt and 150.65735pt
 Page height and width: 512.1496pt by 312.9803pt
-Text height and width: 447pt by 247pt
-Spine and edge margins: 36.98856pt and 28.45277pt
-Upper and lower margins: 23.54431pt and 41.60529pt
+Text height and width: 446.2002pt by 227pt
+Spine and edge margins: 36.98856pt and 48.3697pt
+Upper and lower margins: 23.54431pt and 42.40509pt
 Headheight and headsep: 11.38109pt and 0pt
 Footskip: 22.76219pt
 Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: 0pt and 61.88474pt
-Sidecapsep and sidecapwidth: 7pt and 102pt
-Sidebarhsep and sidebarwidth: 7pt and 102pt
-Sidebarvsep and sidebartopsep: 14.5pt and 0pt
-Sidebarheight: 546.64995pt
-Sidefoothsep and sidefootwidth: 7pt and 102pt
-Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
+Marginparsep and marginparwidth: 0pt and 56.9055pt
+Sidecapsep and sidecapwidth: 7pt and 111pt
+Sidebarhsep and sidebarwidth: 7pt and 111pt
+Sidebarvsep and sidebartopsep: 13.6pt and 0pt
+Sidebarheight: 539.9202pt
+Sidefoothsep and sidefootwidth: 7pt and 111pt
+Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 ******************************************************
 
 ) (/home/edlab/texmf/tex/hedrastyles.sty
@@ -1119,8 +1117,8 @@ LaTeX Info: Redefining \upshape on input line 3640.
 LaTeX Info: Redefining \em on input line 3670.
 LaTeX Info: Redefining \emph on input line 3695.
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmr
-oman12-bold.luc)(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/gener
-ic/fonts/otl/lmroman12-italic.luc)
+oman10-bold.luc)(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/gener
+ic/fonts/otl/lmroman10-italic.luc)
 LaTeX Info: Redefining \- on input line 3749.
 .................................................
 . LaTeX info: "xparse/redefine-command"
@@ -1539,6 +1537,18 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 \endnotesep=\dimen323
 \@enotes=\write5
 )
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box57
+\beforetitleunit=\skip272
+\aftertitleunit=\skip273
+\ttl@plus=\dimen324
+\ttl@minus=\dimen325
+\ttl@toksa=\toks36
+\titlewidth=\dimen326
+\titlewidthlast=\dimen327
+\titlewidthfirst=\dimen328
+)
 (/usr/share/texlive/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
 )
@@ -1623,26 +1633,26 @@ luaotfload | aux : no font with id 41
 . <->"Formular-Light:mode=node;script=latn;language=DFLT;+tlig;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-LaTeX Info: Redefining \sffamily on input line 97.
+LaTeX Info: Redefining \sffamily on input line 119.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip272
-\f@nch@O@elh=\skip273
-\f@nch@O@erh=\skip274
-\f@nch@O@olh=\skip275
-\f@nch@O@orh=\skip276
-\f@nch@O@elf=\skip277
-\f@nch@O@erf=\skip278
-\f@nch@O@olf=\skip279
-\f@nch@O@orf=\skip280
+\f@nch@headwidth=\skip274
+\f@nch@O@elh=\skip275
+\f@nch@O@erh=\skip276
+\f@nch@O@olh=\skip277
+\f@nch@O@orh=\skip278
+\f@nch@O@elf=\skip279
+\f@nch@O@erf=\skip280
+\f@nch@O@olf=\skip281
+\f@nch@O@orf=\skip282
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
 Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
-\AP@output=\toks36
-\AP@partial=\box57
-\AP@footins=\box58
+\AP@output=\toks37
+\AP@partial=\box58
+\AP@footins=\box59
 )
 (/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
@@ -1650,10 +1660,10 @@ Package: placeins 2005/04/18  v 2.2
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count349
-\float@exts=\toks37
-\float@box=\box59
-\@float@everytoks=\toks38
-\@floatcapt=\box60
+\float@exts=\toks38
+\float@box=\box60
+\@float@everytoks=\toks39
+\@floatcapt=\box61
 )
 (/usr/share/texlive/texmf-dist/tex/latex/paracol/paracol.sty
 Package: paracol 2015/10/10 v1.32 
@@ -1667,51 +1677,51 @@ Package: paracol 2015/10/10 v1.32
 \pcol@footnotebase=\count357
 \pcol@nfootnotes=\count358
 \pcol@mcid=\count359
-\pcol@prevdepth=\dimen324
-\pcol@colht=\dimen325
-\pcol@textfloatsep=\dimen326
-\pcol@lrmargin=\dimen327
-\pagerim=\dimen328
-\pcol@topskip=\skip281
-\pcol@topfnotes=\box61
-\pcol@prespan=\box62
-\pcol@rightpage=\box63
-\pcol@tempbox=\box64
-\pcol@everyvbox=\toks39
+\pcol@prevdepth=\dimen329
+\pcol@colht=\dimen330
+\pcol@textfloatsep=\dimen331
+\pcol@lrmargin=\dimen332
+\pagerim=\dimen333
+\pcol@topskip=\skip283
+\pcol@topfnotes=\box62
+\pcol@prespan=\box63
+\pcol@rightpage=\box64
+\pcol@tempbox=\box65
+\pcol@everyvbox=\toks40
 ) (./LIVRO.aux
 (./INPUTS.aux))
 \openout1 = LIVRO.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 234.
-LaTeX Font Info:    ... okay on input line 234.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 234.
-LaTeX Font Info:    ... okay on input line 234.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 234.
-LaTeX Font Info:    ... okay on input line 234.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 234.
-LaTeX Font Info:    ... okay on input line 234.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 234.
-LaTeX Font Info:    ... okay on input line 234.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 234.
-LaTeX Font Info:    ... okay on input line 234.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 234.
-LaTeX Font Info:    ... okay on input line 234.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 234.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 234.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 256.
+LaTeX Font Info:    ... okay on input line 256.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 256.
+LaTeX Font Info:    ... okay on input line 256.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 256.
+LaTeX Font Info:    ... okay on input line 256.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 256.
+LaTeX Font Info:    ... okay on input line 256.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 256.
+LaTeX Font Info:    ... okay on input line 256.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 256.
+LaTeX Font Info:    ... okay on input line 256.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 256.
+LaTeX Font Info:    ... okay on input line 256.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 256.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 256.
  (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 234.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 234.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 234.
+LaTeX Font Info:    ... okay on input line 256.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 256.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 256.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 234.
-LaTeX Info: Redefining \dots on input line 234.
-LaTeX Info: Redefining \up on input line 234.
-LaTeX Info: Redefining \microtypecontext on input line 234.
+LaTeX Font Info:    ... okay on input line 256.
+LaTeX Info: Redefining \dots on input line 256.
+LaTeX Info: Redefining \up on input line 256.
+LaTeX Info: Redefining \microtypecontext on input line 256.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1732,80 +1742,80 @@ Package microtype Info: Loading generic protrusion settings for font family
 .................................................
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 234.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 234.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 234.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 234.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 234.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 234.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 234.
-LaTeX Font Info:    Redeclaring math accent \check on input line 234.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 234.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 234.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 234.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 234.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 234.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 234.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 234.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 234.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 234.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 234.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 234.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 234.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 234.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 234.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 234.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 234.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 234.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 256.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 256.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 256.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 256.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 256.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 256.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 256.
+LaTeX Font Info:    Redeclaring math accent \check on input line 256.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 256.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 256.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 256.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 256.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 256.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 234.
+(Font)              `operators' in the math version `normal' on input line 256.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/LinuxLibertineO(0)/m/n on input line 
-234.
+256.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 234.
+(Font)              `operators' in the math version `bold' on input line 256.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/m/n on input line
- 234.
+ 256.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/m/n 
-on input line 234.
+on input line 256.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/LinuxLibertineO(0)/m/it on input lin
-e 234.
+e 256.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/bx/n on input lin
-e 234.
+e 256.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/Formular-Light(0)/m/n on input line 
-234.
+256.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 234.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 256.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/bx/n
- on input line 234.
+ on input line 256.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/LinuxLibertineO(0)/bx/it on input l
-ine 234.
+ine 256.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/Formular-Light(0)/bx/n on input lin
-e 234.
+e 256.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 234.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 256.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count360
-\scratchdimen=\dimen329
-\scratchbox=\box65
+\scratchdimen=\dimen334
+\scratchbox=\box66
 \nofMPsegments=\count361
 \nofMParguments=\count362
-\everyMPshowfont=\toks40
+\everyMPshowfont=\toks41
 \MPscratchCnt=\count363
-\MPscratchDim=\dimen330
+\MPscratchDim=\dimen335
 \MPnumerator=\count364
 \makeMPintoPDFobject=\count365
-\everyMPtoPDFconversion=\toks41
+\everyMPtoPDFconversion=\toks42
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1821,7 +1831,7 @@ Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks42
+\pdftexcmds@toks=\toks43
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 43
 8.
@@ -1836,7 +1846,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 234.
+(lastpage)             ! on input line 256.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: rotating package is loaded.
@@ -1849,13 +1859,18 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-] [2
+]
+
+LaTeX Font Warning: Font shape `TU/Formular-Regular(0)/m/sc' undefined
+(Font)              using `TU/Formular-Regular(0)/m/n' instead on input line 256
+.
+
+[2
 
 ] [3] [4
 
-]
-(./PRETAS.tex(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/
-fonts/otl/formular-lightitalic.luc)
+] (./PRETAS.tex(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generi
+c/fonts/otl/formular-lightitalic.luc)
 \g__fontspec_family_Formular-LightItalic_int=\count366
 .................................................
 . fontspec info: "no-font-shape"
@@ -1873,9 +1888,9 @@ fonts/otl/formular-lightitalic.luc)
 . 
 . Could not resolve font "Formular-LightItalic/I" (it probably doesn't exist).
 .................................................
-luaotfload | aux : font no 56 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script latn
  with language dflt
-luaotfload | aux : no font with id 56
+luaotfload | aux : no font with id 53
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1920,9 +1935,9 @@ LaTeX Font Warning: Font shape `TU/Formular-LightItalic(0)/m/sc' undefined
 . 
 . Could not resolve font "FormularLight-Italic/I" (it probably doesn't exist).
 .................................................
-luaotfload | aux : font no 56 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 53 (nil) does not define feature smcp for script latn
  with language dflt
-luaotfload | aux : no font with id 56
+luaotfload | aux : no font with id 53
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1944,26 +1959,46 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FormularLight-Italic' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-) [5] [6] (./LIVRO.toc) [7] [8
+) [5] [6] (./LIVRO.toc
+Overfull \hbox (1.14972pt too wide) detected at line 9
+ \TU/Formular-Regular(0)/m/n/10.95 123
+ []
 
 
-] [9] [10]
+Overfull \hbox (1.53297pt too wide) detected at line 10
+ \TU/Formular-Regular(0)/m/n/10.95 169
+ []
+
+
+Overfull \hbox (0.54747pt too wide) detected at line 11
+ \TU/Formular-Regular(0)/m/n/10.95 177
+ []
+
+
+Overfull \hbox (1.55487pt too wide) detected at line 12
+ \TU/Formular-Regular(0)/m/n/10.95 195
+ []
+
+) [7]
 \openout2 = INPUTS.aux
- (./INPUTS.tex (./ORIGINAL.tex [11
+ (./INPUTS.tex (./ORIGINAL.tex [8
 
 
-]
-[12
+] [9
 
-] [13] [14] [15] [16]
+] [10] [11
+
+] [12
+
+] [13] [14] [15]
+[16]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 128.
+(Font)              <10.95> on input line 134.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 128.
+(Font)              <8> on input line 134.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 128.
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+(Font)              <6> on input line 134.
+ (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
 )
@@ -1972,115 +2007,146 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  [17]
-<./imgs/cuts.jpg, id=63, 803.0pt x 645.41125pt>
+<./imgs/cuts.jpg, id=62, 803.0pt x 645.41125pt>
 File: ./imgs/cuts.jpg Graphic file (type jpg)
 <use ./imgs/cuts.jpg>
-Package luatex.def Info: ./imgs/cuts.jpg  used on input line 137.
+Package luatex.def Info: ./imgs/cuts.jpg  used on input line 143.
 (luatex.def)             Requested size: 241.84842pt x 194.38318pt.
- [18<./imgs/cuts.jpg>] [19
+
+Overfull \hbox (14.84842pt too wide) in paragraph at lines 143--144
+ [][] 
+ []
+
+[18<./imgs/cuts.jpg>] [19
 
 ] [20]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 187.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 187.
- [21] [22] [23] [24] [25] [26]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 334.
-
-Underfull \hbox (badness 1635) in paragraph at lines 336--336
-\TU/FormularLight-Italic(0)/m/n/9 au Collège de France, 1977-1978\TU/Formular-
-Light(0)/m/n/9 . Pa-ris: Gal-li-mard/Seuil,
+Overfull \hbox (6.2521pt too wide) in paragraph at lines 186--186
+ |[]| 
  []
 
-[27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41]
-[42]
-Overfull \hbox (8.67033pt too wide) in paragraph at lines 665--665
-[]\TU/Formular-Light(0)/m/n/9 9. [][], Mal-colm. []| 
- []
-
-[43] [44] [45]
-<./imgs/frame1.png, id=151, 602.25pt x 401.5pt>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 194.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 194.
+[21] [22] [23] [24] [25] [26]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 341.
+ [27] [28] [29] [30] [31] [32] [33] [34] [35]
+[36] [37] [38] [39] [40] [41] [42] [43]
+<./imgs/frame1.png, id=144, 602.25pt x 401.5pt>
 File: ./imgs/frame1.png Graphic file (type png)
 <use ./imgs/frame1.png>
-Package luatex.def Info: ./imgs/frame1.png  used on input line 741.
+Package luatex.def Info: ./imgs/frame1.png  used on input line 748.
 (luatex.def)             Requested size: 241.84842pt x 161.23428pt.
- [46] [47<./imgs/frame1.png>] [48] [49]
-<./imgs/frame2.jpg, id=164, 1783.66376pt x 1002.74625pt>
+
+Overfull \hbox (14.84842pt too wide) in paragraph at lines 748--749
+ [][] 
+ []
+
+[44] [45<./imgs/frame1.png>] [46] [47] [48]
+<./imgs/frame2.jpg, id=160, 1783.66376pt x 1002.74625pt>
 File: ./imgs/frame2.jpg Graphic file (type jpg)
 <use ./imgs/frame2.jpg>
-Package luatex.def Info: ./imgs/frame2.jpg  used on input line 811.
+Package luatex.def Info: ./imgs/frame2.jpg  used on input line 818.
 (luatex.def)             Requested size: 241.84842pt x 135.96162pt.
- [50<./imgs/frame2.jpg>]
-[51] [52] [53] [54]
-<./imgs/francesca.jpg, id=182, 310.15875pt x 513.92pt>
+
+Overfull \hbox (14.84842pt too wide) in paragraph at lines 818--819
+ [][] 
+ []
+
+[49<./imgs/frame2.jpg>] [50] [51] [52]
+<./imgs/francesca.jpg, id=175, 310.15875pt x 513.92pt>
 File: ./imgs/francesca.jpg Graphic file (type jpg)
 <use ./imgs/francesca.jpg>
-Package luatex.def Info: ./imgs/francesca.jpg  used on input line 914.
+Package luatex.def Info: ./imgs/francesca.jpg  used on input line 921.
 (luatex.def)             Requested size: 241.84842pt x 400.73051pt.
- [55]
 
-LaTeX Warning: Text page 56 contains only floats.
+Overfull \hbox (14.84842pt too wide) in paragraph at lines 921--922
+ [][] 
+ []
+
+[53]
+
+LaTeX Warning: Text page 54 contains only floats.
 
 
-Overfull \vbox (6.0805pt too high) has occurred while \output is active []
+Overfull \vbox (3.5803pt too high) has occurred while \output is active []
 
 
-[56<./imgs/francesca.jpg>] [57]
-<./imgs/decapitacao.png, id=192, 1204.5pt x 818.05624pt>
+[54<./imgs/francesca.jpg>] [55] [56]
+<./imgs/decapitacao.png, id=188, 1204.5pt x 818.05624pt>
 File: ./imgs/decapitacao.png Graphic file (type png)
 <use ./imgs/decapitacao.png>
-Package luatex.def Info: ./imgs/decapitacao.png  used on input line 978.
+Package luatex.def Info: ./imgs/decapitacao.png  used on input line 985.
 (luatex.def)             Requested size: 241.84842pt x 164.24495pt.
- [58<./imgs/decapitacao.png>] [59] [60] [61]
-[62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76]
-[77] [78] [79] [80]
-<./imgs/chile.jpg, id=264, 850.17625pt x 467.7475pt>
+
+Overfull \hbox (14.84842pt too wide) in paragraph at lines 985--986
+ [][] 
+ []
+
+[57<./imgs/decapitacao.png>] [58] [59] [60] [61] [62] [63] [64] [65] [66]
+[67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77]
+<./imgs/chile.jpg, id=254, 850.17625pt x 467.7475pt>
 File: ./imgs/chile.jpg Graphic file (type jpg)
 <use ./imgs/chile.jpg>
-Package luatex.def Info: ./imgs/chile.jpg  used on input line 1448.
+Package luatex.def Info: ./imgs/chile.jpg  used on input line 1455.
 (luatex.def)             Requested size: 241.84842pt x 133.0596pt.
- [81] [82<./imgs/chile.jpg>] [83] [84] [85] [86] [87]
-<./imgs/crer.png, id=287, 1074.0125pt x 778.91pt>
+
+Overfull \hbox (14.84842pt too wide) in paragraph at lines 1455--1456
+ [][] 
+ []
+
+[78] [79<./imgs/chile.jpg>] [80] [81] [82] [83] [84]
+<./imgs/crer.png, id=277, 1074.0125pt x 778.91pt>
 File: ./imgs/crer.png Graphic file (type png)
 <use ./imgs/crer.png>
-Package luatex.def Info: ./imgs/crer.png  used on input line 1593.
+Package luatex.def Info: ./imgs/crer.png  used on input line 1600.
 (luatex.def)             Requested size: 241.84842pt x 175.38982pt.
 
-[88] [89<./imgs/crer.png>] [90
+Overfull \hbox (14.84842pt too wide) in paragraph at lines 1600--1601
+ [][] 
+ []
 
-]
+[85] [86<./imgs/crer.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 1598.
- [91] [92] [93] [94] [95] [96] [97] [98]
-[99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111]
-[112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123]
-[124] [125] [126] [127] [128
+(Font)              <14.4> on input line 1605.
+ [87
 
-] [129] [130] [131] [132] [133] [134] [135]
-[136] [137] [138] [139] [140] [141] [142] [143] [144] [145] [146] [147]
-[148] [149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159]
-[160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170] [171]
-[172] [173] [174] [175] [176
+] [88] [89] [90] [91] [92] [93] [94] [95]
+[96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
+[121] [122
+
+] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132]
+[133] [134] [135] [136] [137] [138] [139] [140] [141] [142] [143] [144]
+[145] [146] [147] [148] [149] [150] [151] [152] [153] [154] [155] [156]
+[157] [158] [159] [160] [161] [162] [163] [164] [165] [166] [167] [168
 
 ]
-Underfull \hbox (badness 1776) in paragraph at lines 3327--3327
-[]\TU/Formular-Light(0)/m/n/9 *. []Texto ori-gi-nal-mente pu-bli-cado no \TU/Fo
-rmularLight-Italic(0)/m/n/9 Nexo Jor-nal \TU/Formular-Light(0)/m/n/9 em
+Underfull \hbox (badness 4429) in paragraph at lines 3335--3335
+[]\TU/Formular-Light(0)/m/n/8 1. []Texto ori-gi-nal-mente pu-bli-cado no \TU/Fo
+rmularLight-Italic(0)/m/n/8 Nexo Jor-nal \TU/Formular-Light(0)/m/n/8 em
  []
 
-[177] [178] [179] [180] [181] [182] [183] [184
+[169] [170] [171] [172] [173] [174] [175] [176
 
-] [185] [186] [187] [188]
-[189] [190] [191] [192]
-Underfull \hbox (badness 1286) in paragraph at lines 3654--3659
-[]\TU/LinuxLibertineO(0)/m/n/12 Ou-tro as-pecto con-creto dessa pa-ra-noia, ao
+] [177] [178] [179] [180]
+[181] [182] [183]
+Underfull \hbox (badness 1199) in paragraph at lines 3641--3651
+[]\TU/LinuxLibertineO(0)/m/n/10.95 Ex-ter-mi-nar in-dis-cri-mi-na-da-mente, ain
+da que
  []
 
-[193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203
+[184]
+Underfull \hbox (badness 1540) in paragraph at lines 3662--3667
+[]\TU/LinuxLibertineO(0)/m/n/10.95 Ou-tro as-pecto con-creto dessa pa-ra-noia, 
+ao
+ []
 
-] [204]
-[205] [206] [207] [208])) 
+[185] [186] [187] [188] [189] [190] [191] [192] [193] [194] [195
+
+] [196]
+[197] [198] [199] [200])) 
 AED: lastpage setting LastPage
 \tf@toc=\write6
 
@@ -2092,26 +2158,25 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 26183 strings out of 494480
+ 26433 strings out of 494480
  1455496,794899 words of node,token memory allocated
- 1251324 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 52 glue, 1 penalty, 196657 glyph, 29952 attribute, 
-196 glue_spec, 4992 attribute_list, 3 shape, 4 write nodes
-   avail lists: 1:3,2:649,3:78,4:42,5:288,6:1098,7:836,8:61,9:198,10:21,11:343
- 28484 multiletter control sequences out of 65536+600000
- 130 fonts using 21987931 bytes
- 61i,14n,79p,1369b,603s stack positions out of 5000i,500n,10000p,200000b,100000s
-</home/edlab/texmf/tex/fonts/Formular-Regular.otf></home/edlab/texmf/tex/fonts/F
-ormular-LightItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/lib
-ertine/LinLibertine_RI.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/
-libertine/LinLibertine_R.otf></usr/share/texlive/texmf-dist/fonts/opentype/publi
-c/libertine/LinLibertine_RB.otf></home/edlab/texmf/tex/fonts/Formular-Light.otf>
-</home/edlab/texmf/tex/fonts/Formular-Bold.otf></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (208 pages, 2433104 bytes).
+ 1247728 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 52 glue, 1 penalty, 196448 glyph, 28944 attribute, 
+198 glue_spec, 4824 attribute_list, 3 shape, 4 write nodes
+   avail lists: 1:3,2:649,3:97,4:45,5:280,6:1098,7:815,8:61,9:214,10:20,11:369
+ 28711 multiletter control sequences out of 65536+600000
+ 130 fonts using 20443655 bytes
+ 61i,14n,79p,1369b,600s stack positions out of 5000i,500n,10000p,200000b,100000s
+</usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.ot
+f></usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI
+.otf></home/edlab/texmf/tex/fonts/Formular-LightItalic.otf></home/edlab/texmf/te
+x/fonts/Formular-Bold.otf></home/edlab/texmf/tex/fonts/Formular-Light.otf></home
+/edlab/texmf/tex/fonts/Formular-Regular.otf></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (200 pages, 2426867 bytes).
 
-PDF statistics: 717 PDF objects out of 1000 (max. 8388607)
- 473 compressed objects within 5 object streams
+PDF statistics: 684 PDF objects out of 1000 (max. 8388607)
+ 451 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
