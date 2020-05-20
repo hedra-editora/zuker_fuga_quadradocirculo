@@ -350,12 +350,9 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 OUTPUT LIVRO.pdf
-INPUT ./PRETAS.tex
-INPUT ./PRETAS.tex
-INPUT ./PRETAS.tex
+INPUT ./LIVRO.toc
+INPUT ./LIVRO.toc
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-lightitalic.luc
-INPUT ./LIVRO.toc
-INPUT ./LIVRO.toc
 OUTPUT INPUTS.aux
 INPUT ./INPUTS.tex
 INPUT ./INPUTS.tex
@@ -433,6 +430,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT ./PRETAS.tex
+INPUT ./PRETAS.tex
+INPUT ./PRETAS.tex
 OUTPUT LIVRO.toc
 INPUT ./LIVRO.aux
 INPUT ./INPUTS.aux
