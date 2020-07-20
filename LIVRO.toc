@@ -3,11 +3,10 @@
 \contentsline {chapter}{EM ROTA DE FUGA \vspace \medskipamount }{7}
 \contentsline {chapter}{Introdução}{11}
 \contentsline {chapter}{A pedagogia do medo}{17}
-\contentsline {section}{\hspace {.2cm}Neoliberalismo e a educação sentimental}{19}
-\contentsline {section}{\hspace {.2cm}Pequena teoria visual do medo}{48}
-\contentsline {chapter}{Vozes da Amazônia}{85}
-\contentsline {chapter}{Vertigem. Por uma escrita do ruído}{121}
-\contentsline {chapter}{A incerteza política em 2018: uma coleção de sonhos e pesadelos, {\relax \fontsize {8}{9.5}\selectfont {{\fontspec [SmallCapsFeatures={FakeSlant=0.6}]{Formular-LightItalic}\textsc {com William Zeytounlian}\fontspec []{FormularLight-Italic}}}}}{167}
-\contentsline {chapter}{Jair Bolsonaro: massa, vírus e poder}{175}
-\contentsline {chapter}{Apêndice. Xamanismo na esplanada}{193}
+\contentsline {chapter}{Vozes da Amazônia}{79}
+\contentsline {chapter}{Vertigem: por uma escrita do ruído}{113}
+\contentsline {chapter}{A incerteza política em 2018}{159}
+\contentsline {chapter}{Jair Bolsonaro: massa, vírus e poder}{167}
+\contentsline {chapter}{Cura, doença e tortura}{185}
+\contentsline {chapter}{Apêndice}{193}
 \contentsfinish 
