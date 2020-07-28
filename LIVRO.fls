@@ -350,6 +350,16 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 OUTPUT LIVRO.pdf
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT ./LIVRO.toc
 INPUT ./LIVRO.toc
 OUTPUT INPUTS.aux
@@ -427,9 +437,6 @@ INPUT ./imgs/img7.jpg
 INPUT ./imgs/img8.jpg
 INPUT ./imgs/img8.jpg
 INPUT ./imgs/img8.jpg
-INPUT ./imgs/img9.jpg
-INPUT ./imgs/img9.jpg
-INPUT ./imgs/img9.jpg
 INPUT ./imgs/crer.png
 INPUT ./imgs/crer.png
 INPUT ./imgs/crer.png
@@ -439,6 +446,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT ./imgs/img9.jpg
+INPUT ./imgs/img9.jpg
+INPUT ./imgs/img9.jpg
 INPUT ./imgs/img10.jpg
 INPUT ./imgs/img10.jpg
 INPUT ./imgs/img10.jpg
@@ -492,3 +502,4 @@ INPUT ./LIVRO.aux
 INPUT ./INPUTS.aux
 INPUT ./INPUTS.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
