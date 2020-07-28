@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  28 JUL 2020 15:11
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  28 JUL 2020 15:36
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.102 seconds
+luaotfload | main : initialization completed in 0.105 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2417,8 +2417,15 @@ Underfull \hbox (badness 1540) in paragraph at lines 4217--4222
 ao
  []
 
-[217] [218] [219] [220] [221]
-Underfull \hbox (badness 10000) in paragraph at lines 4335--4347
+[217] [218]
+Underfull \hbox (badness 1270) in paragraph at lines 4279--4279
+\TU/Formular-Light(0)/m/n/8 de li-de-ran-ças glo-bais’, diz Yu-val Ha-rari''
+, \TU/Formular-LightItalic(0)/m/sc/8 Época Ne-gó-cios\TU/Formular-Light(0)/m/
+n/8 ,
+ []
+
+[219] [220] [221]
+Underfull \hbox (badness 10000) in paragraph at lines 4335--4346
 
  []
 
@@ -2426,10 +2433,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 4335--4347
 <./imgs/img22.jpg, id=725, 1868.9825pt x 3638.59375pt>
 File: ./imgs/img22.jpg Graphic file (type jpg)
 <use ./imgs/img22.jpg>
-Package luatex.def Info: ./imgs/img22.jpg  used on input line 4357.
+Package luatex.def Info: ./imgs/img22.jpg  used on input line 4356.
 (luatex.def)             Requested size: 270.30118pt x 526.22234pt.
 
-Overfull \hbox (15.1328pt too wide) in paragraph at lines 4357--4359
+Overfull \hbox (15.1328pt too wide) in paragraph at lines 4356--4358
  [] 
  []
 
@@ -2493,14 +2500,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 26659 strings out of 494480
+ 26675 strings out of 494480
  1455496,794899 words of node,token memory allocated
- 1305754 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 52 glue, 1 penalty, 204062 glyph, 34236 attribute, 
-198 glue_spec, 5706 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:3,2:844,3:89,4:44,5:279,6:792,7:876,8:58,9:191,10:21,11:352
+ 1307702 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 52 glue, 1 penalty, 204389 glyph, 34230 attribute, 
+198 glue_spec, 5705 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:4,2:844,3:89,4:42,5:278,6:792,7:876,8:58,9:191,10:20,11:352
  28885 multiletter control sequences out of 65536+600000
- 134 fonts using 20052143 bytes
+ 134 fonts using 20054743 bytes
  64i,14n,89p,1369b,586s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/edlab/texmf/tex/fonts/Formular-LightItalic.otf></usr/share/texlive/texmf-
 dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/share/texlive/tex
@@ -2510,7 +2517,7 @@ exmf-dist/fonts/enc/dvips/base/8r.enc}</home/edlab/texmf/tex/fonts/Formular-Bold
 s/Formular-Regular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/latxfont/lcirclew.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
 r8a.pfb>
-Output written on LIVRO.pdf (247 pages, 23717736 bytes).
+Output written on LIVRO.pdf (247 pages, 23718341 bytes).
 
 PDF statistics: 855 PDF objects out of 1000 (max. 8388607)
  555 compressed objects within 6 object streams

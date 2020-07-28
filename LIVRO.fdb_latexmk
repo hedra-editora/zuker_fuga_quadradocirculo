@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1595959890 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1595959895
+["pdflatex"] 1595961366 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1595961372
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-bold.luc" 1576263835 145430 7b3578e57e11d1a755424bcbaeaae888 ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-light.luc" 1576608809 152684 5cbc594f812d3faf720a15c1d00d440a ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-lightitalic.luc" 1576610006 151207 df798827b4e3c97a8cd8090075ab5dcc ""
@@ -242,12 +242,12 @@
   "/usr/share/texlive/texmf-dist/tex/plain/ifetex/ifetex.tex" 1480098846 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/tex/generic/config/language.dat" 1568390393 5068 f7f3bc7f417c156a3f8ad000ec95e50f ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1568390407 1349090 037f174be86cf28c8ddf3a93c1b55c78 ""
-  "INPUTS.aux" 1595959895 4036 eba660af9080c3a1c5f95edc4e989d21 ""
+  "INPUTS.aux" 1595961371 4036 eba660af9080c3a1c5f95edc4e989d21 ""
   "INPUTS.tex" 1576608725 63 97740e5cac6f5f38b67100cbc462cb86 ""
-  "LIVRO.aux" 1595959895 373 315d1568d8c56104b9518beafb764561 ""
+  "LIVRO.aux" 1595961372 373 315d1568d8c56104b9518beafb764561 ""
   "LIVRO.tex" 1594051036 6883 217fb2dab67268dcda311791b61593bb ""
-  "LIVRO.toc" 1595959895 581 8d6112ce9cb405b85b5225ec7423f622 ""
-  "ORIGINAL.tex" 1595959888 259020 d2394be69123933f3aa6ccf820cbfa33 ""
+  "LIVRO.toc" 1595961372 581 8d6112ce9cb405b85b5225ec7423f622 ""
+  "ORIGINAL.tex" 1595961350 259272 54b26b330b3527c65a5eeac110b8650d ""
   "PRETAS.tex" 1594404643 961 7d03c4e7d02c82f09e370661bc0bd216 ""
   "fichatecnica.sty" 1595452216 2330 3199619803300edc7df59a061fcbac32 ""
   "fronthedra.tex" 1595959374 4167 12a7ca00ddce004873042d28a422295c ""
@@ -283,7 +283,7 @@
   "tipografia.sty" 1595959578 10023 139cb71713430b6cd9823439cc7ff191 ""
   (generated)
   "LIVRO.pdf"
-  "LIVRO.toc"
   "INPUTS.aux"
   "LIVRO.aux"
+  "LIVRO.toc"
   "LIVRO.log"
