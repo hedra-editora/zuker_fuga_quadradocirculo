@@ -1,6 +1,6 @@
 \babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{EM ROTA DE FUGA \vspace \medskipamount }{7}
+\contentsline {part}{\relax \fontsize {9}{11}\selectfont \abovedisplayskip 8\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \MakeUppercase {\textbf {EM ROTA DE FUGA}}}{7}
 \contentsline {chapter}{Introdução}{11}
 \contentsline {chapter}{A pedagogia do medo}{17}
 \contentsline {chapter}{Vozes da Amazônia}{95}
@@ -8,5 +8,5 @@
 \contentsline {chapter}{A incerteza política em 2018}{195}
 \contentsline {chapter}{Jair Bolsonaro: massa, vírus e poder}{207}
 \contentsline {chapter}{Cura, doença e tortura}{229}
-\contentsline {chapter}{Apêndice}{239}
+\contentsline {chapter}{Xamanismo na esplanada}{239}
 \contentsfinish 

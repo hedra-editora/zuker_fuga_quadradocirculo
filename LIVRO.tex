@@ -1,4 +1,4 @@
-\documentclass[semcabeco,compontinhos,showtrims,trimframe,11pt,conselho,spreadimages]{memoir}
+\documentclass[semcabeco,compontinhos,showtrims,11pt,conselho,spreadimages]{memoir}
 
 \usepackage[11x18]{hedraoptions} %% << %%%%%%%%%%%%%%%%
 \usepackage[baruch]{hedrastyles}
@@ -74,12 +74,12 @@
   {20pt}
   {\flushleft}
 
-  \titlespacing{\chapter}{0pt}{-.2cm}{3cm}
+  \titlespacing*{\chapter}{0pt}{-.2cm}{3cm}
 
 \titleformat{\section}
 [display]
-{\normalsize\scshape\MakeTextLowercase\Formular}
- {\normalsize\sectiontitlename\space\thesection}
+{\footnotesize\scshape\MakeTextLowercase\Formular}
+ {\footnotesize\sectiontitlename\space\thesection}
   {20pt}
   {\baselineskip=.7\baselineskip\centering}
 
@@ -105,6 +105,8 @@
 %\setmainfont[Ligatures=TeX]{FS Brabo Pro-Regular}
 
 \newcommand{\slsc}[1]{\fontspec[SmallCapsFeatures={FakeSlant=0.6}]{Formular-LightItalic}\textsc{#1}\fontspec[]{FormularLight-Italic}}
+
+\newcommand{\bold}[1]{\fontspec[SmallCapsFeatures={FakeSlant=0.6}]{Formular-BoldItalic}\textsc{#1}\fontspec[]{Formular-BoldItalic}}
 
 %\usepackage{Formular}
 \newfontfamily\Formular{Formular-Regular}[

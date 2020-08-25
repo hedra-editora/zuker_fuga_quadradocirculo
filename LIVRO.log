@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  28 JUL 2020 15:36
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  25 AUG 2020 14:30
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -380,7 +380,7 @@ Stock height and width: 794.96999pt by 614.295pt
 Top and edge trims: 56.9055pt and 150.65735pt
 Page height and width: 512.1496pt by 312.9803pt
 Text height and width: 446.2002pt by 227pt
-Spine and edge margins: 36.98856pt and 48.3697pt
+Spine and edge margins: 42.67911pt and 42.67915pt
 Upper and lower margins: 23.54431pt and 42.40509pt
 Headheight and headsep: 11.38109pt and 0pt
 Footskip: 22.76219pt
@@ -1229,8 +1229,7 @@ smcp;"
 .................................................
 LaTeX Info: Redefining \rmfamily on input line 6.
 
-(/home/edlab/texmf/tex/toc.sty
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
+(./toc.sty (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2011/12/15 v1.6 TOC entries
 \ttl@leftsep=\dimen272
 )
@@ -1639,7 +1638,7 @@ luaotfload | aux : no font with id 41
 . <->"Formular-Light:mode=node;script=latn;language=DFLT;+pnum;+onum;+tlig;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-LaTeX Info: Redefining \sffamily on input line 119.
+LaTeX Info: Redefining \sffamily on input line 121.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footers
@@ -1698,36 +1697,36 @@ Package: paracol 2015/10/10 v1.32
 (./INPUTS.aux))
 \openout1 = LIVRO.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 256.
-LaTeX Font Info:    ... okay on input line 256.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 256.
-LaTeX Font Info:    ... okay on input line 256.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 256.
-LaTeX Font Info:    ... okay on input line 256.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 256.
-LaTeX Font Info:    ... okay on input line 256.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 256.
-LaTeX Font Info:    ... okay on input line 256.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 256.
-LaTeX Font Info:    ... okay on input line 256.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 256.
-LaTeX Font Info:    ... okay on input line 256.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 256.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 256.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 258.
+LaTeX Font Info:    ... okay on input line 258.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 258.
+LaTeX Font Info:    ... okay on input line 258.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 258.
+LaTeX Font Info:    ... okay on input line 258.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 258.
+LaTeX Font Info:    ... okay on input line 258.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 258.
+LaTeX Font Info:    ... okay on input line 258.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 258.
+LaTeX Font Info:    ... okay on input line 258.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 258.
+LaTeX Font Info:    ... okay on input line 258.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 258.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 258.
  (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 256.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 256.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 256.
+LaTeX Font Info:    ... okay on input line 258.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 258.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 258.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 256.
-LaTeX Info: Redefining \dots on input line 256.
-LaTeX Info: Redefining \up on input line 256.
-LaTeX Info: Redefining \microtypecontext on input line 256.
+LaTeX Font Info:    ... okay on input line 258.
+LaTeX Info: Redefining \dots on input line 258.
+LaTeX Info: Redefining \up on input line 258.
+LaTeX Info: Redefining \microtypecontext on input line 258.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1748,66 +1747,66 @@ Package microtype Info: Loading generic protrusion settings for font family
 .................................................
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 256.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 256.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 256.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 256.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 256.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 256.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 256.
-LaTeX Font Info:    Redeclaring math accent \check on input line 256.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 256.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 256.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 256.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 256.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 256.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 256.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 256.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 256.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 256.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 256.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 256.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 256.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 256.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 256.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 256.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 256.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 256.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 258.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 258.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 258.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 258.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 258.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 258.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 258.
+LaTeX Font Info:    Redeclaring math accent \check on input line 258.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 258.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 258.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 258.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 258.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 258.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 258.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 258.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 258.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 258.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 258.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 258.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 258.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 258.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 258.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 258.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 258.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 258.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 256.
+(Font)              `operators' in the math version `normal' on input line 258.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/LinuxLibertineO(0)/m/n on input line 
-256.
+258.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 256.
+(Font)              `operators' in the math version `bold' on input line 258.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/m/n on input line
- 256.
+ 258.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/m/n 
-on input line 256.
+on input line 258.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/LinuxLibertineO(0)/m/it on input lin
-e 256.
+e 258.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/bx/n on input lin
-e 256.
+e 258.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/Formular-Light(0)/m/n on input line 
-256.
+258.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 256.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 258.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/bx/n
- on input line 256.
+ on input line 258.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/LinuxLibertineO(0)/bx/it on input l
-ine 256.
+ine 258.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/Formular-Light(0)/bx/n on input lin
-e 256.
+e 258.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 256.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 258.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1852,7 +1851,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 256.
+(lastpage)             ! on input line 258.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: rotating package is loaded.
@@ -1862,71 +1861,98 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Formular-Regular' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmm
+ono10-regular.luc)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmm
+ono8-regular.luc) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+] [2
 
 ]
+warning  (file ./imgs/logos.pdf) (pdf inclusion): PDF inclusion: found PDF versi
+on '1.7', but at most version '1.5' allowed
+<./imgs/logos.pdf, id=14, 143.88556pt x 18.32346pt>
+File: ./imgs/logos.pdf Graphic file (type pdf)
+<use ./imgs/logos.pdf>
+Package luatex.def Info: ./imgs/logos.pdf  used on input line 258.
+(luatex.def)             Requested size: 170.71652pt x 21.74168pt.
+[3<./imgs/logos.pdf>] [4
+
+] (./LIVRO.toc
 
 LaTeX Font Warning: Font shape `TU/Formular-Regular(0)/m/sc' undefined
-(Font)              using `TU/Formular-Regular(0)/m/n' instead on input line 256
-.
-
-[2
-
-]
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 256.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
-File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
-) [3] [4
-
-]
-(./LIVRO.toc
-Overfull \hbox (0.77744pt too wide) detected at line 7
- \TU/Formular-Regular(0)/m/n/10.95 󰀎󰀐󰀖
- []
+(Font)              using `TU/Formular-Regular(0)/m/n' instead on input line 3.
 
 
-Overfull \hbox (1.07307pt too wide) detected at line 8
- \TU/Formular-Regular(0)/m/n/10.95 󰀎󰀖󰀒
- []
+LaTeX Font Warning: Font shape `TU/Formular-Regular(0)/bx/sc' undefined
+(Font)              using `TU/Formular-Regular(0)/bx/n' instead on input line 3.
 
 
-Overfull \hbox (1.37968pt too wide) detected at line 9
- \TU/Formular-Regular(0)/m/n/10.95 󰀏󰀍󰀔
- []
-
-
-Overfull \hbox (1.50014pt too wide) detected at line 10
- \TU/Formular-Regular(0)/m/n/10.95 󰀏󰀏󰀖
- []
-
-
-Overfull \hbox (1.73009pt too wide) detected at line 11
- \TU/Formular-Regular(0)/m/n/10.95 󰀏󰀐󰀖
- []
-
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "Formular-Light.otf/B" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "Formular-Bold.otf/I" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "Formular-Regular/BI" (it probably doesn't exist).
+.................................................
+luaotfload | aux : font no 58 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : no font with id 58
+luaotfload | aux : font no 60 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : no font with id 60
+luaotfload | aux : font no 59 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : no font with id 59
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Formular-Regular(1)' created for font 'Formular-Regular' with
+. options [Numbers={Proportional,OldStyle},BoldFont =
+. Formular-Bold.otf,ItalicFont = Formular-Light.otf,Numbers={Lining}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"Formular-Regular:mode=node;script=latn;language=DFLT;+pnum;+lnum;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. - 'bold' (bx/n) with NFSS spec.:
+. <->"Formular-Bold.otf:mode=node;script=latn;language=DFLT;+pnum;+lnum;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+. - 'italic' (m/it) with NFSS spec.:
+. <->"Formular-Light.otf:mode=node;script=latn;language=DFLT;+pnum;+lnum;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: 
+.................................................
 ) [5]
 \openout2 = INPUTS.aux
  (./INPUTS.tex (./ORIGINAL.tex [6
 
 
-] [7
 
-] [8] [9
+] [7] [8] [9
 
 ] [10
 
 ] [11] [12] [13]
 [14]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 135.
+(Font)              <10.95> on input line 133.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 135.
+(Font)              <8> on input line 133.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 135.
+(Font)              <6> on input line 133.
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
@@ -1954,9 +1980,9 @@ mular-lightitalic.luc)
 . 
 . Could not resolve font "Formular-LightItalic/I" (it probably doesn't exist).
 .................................................
-luaotfload | aux : font no 85 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 94 (nil) does not define feature smcp for script latn
  with language dflt
-luaotfload | aux : no font with id 85
+luaotfload | aux : no font with id 94
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1978,7 +2004,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 LaTeX Font Warning: Font shape `TU/Formular-LightItalic(0)/m/sc' undefined
 (Font)              using `TU/Formular-LightItalic(0)/m/n' instead on input line
- 136.
+ 134.
 
 \g__fontspec_family_FormularLight-Italic_int=\count367
 .................................................
@@ -1997,9 +2023,9 @@ LaTeX Font Warning: Font shape `TU/Formular-LightItalic(0)/m/sc' undefined
 . 
 . Could not resolve font "FormularLight-Italic/I" (it probably doesn't exist).
 .................................................
-luaotfload | aux : font no 85 (nil) does not define feature smcp for script latn
+luaotfload | aux : font no 94 (nil) does not define feature smcp for script latn
  with language dflt
-luaotfload | aux : no font with id 85
+luaotfload | aux : no font with id 94
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -2019,469 +2045,398 @@ Package microtype Info: Loading generic protrusion settings for font family
 [15] [16
 
 ] [17] [18]
-<./imgs/img1.jpg, id=66, 1667.22874pt x 3403.71625pt>
+<./imgs/img1.jpg, id=70, 1578.89874pt x 3241.10875pt>
 File: ./imgs/img1.jpg Graphic file (type jpg)
 <use ./imgs/img1.jpg>
-Package luatex.def Info: ./imgs/img1.jpg  used on input line 196.
-(luatex.def)             Requested size: 241.84842pt x 493.70801pt.
+Package luatex.def Info: ./imgs/img1.jpg  used on input line 188.
+(luatex.def)             Requested size: 227.0pt x 465.96759pt.
 
-Overfull \vbox (37.04865pt too high) has occurred while \output is active []
+Overfull \vbox (19.7674pt too high) has occurred while \output is active []
 
 
 [19<./imgs/img1.jpg>] [20]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 220.
+(Font)              <9> on input line 203.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 220.
+(Font)              <5> on input line 203.
  [21] [22] [23] [24] [25] [26]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 368.
+(Font)              <7> on input line 351.
  [27] [28]
-<./imgs/img2.jpg, id=98, 2052.66875pt x 3451.89626pt>
+<./imgs/img2.jpg, id=102, 1600.98125pt x 3323.41624pt>
 File: ./imgs/img2.jpg Graphic file (type jpg)
 <use ./imgs/img2.jpg>
-Package luatex.def Info: ./imgs/img2.jpg  used on input line 410.
-(luatex.def)             Requested size: 304.44447pt x 511.96823pt.
+Package luatex.def Info: ./imgs/img2.jpg  used on input line 387.
+(luatex.def)             Requested size: 227.0pt x 471.20831pt.
 
-Overfull \hbox (49.2761pt too wide) in paragraph at lines 410--412
- [] 
- []
-
-
-Overfull \vbox (56.30887pt too high) has occurred while \output is active []
+Overfull \vbox (25.00812pt too high) has occurred while \output is active []
 
 
 [29<./imgs/img2.jpg>] [30] [31] [32] [33] [34] [35] [36]
-<./imgs/img3.jpg, id=124, 1957.3125pt x 3303.34125pt>
+<./imgs/img3.jpg, id=128, 1578.89874pt x 3035.34pt>
 File: ./imgs/img3.jpg Graphic file (type jpg)
 <use ./imgs/img3.jpg>
-Package luatex.def Info: ./imgs/img3.jpg  used on input line 577.
-(luatex.def)             Requested size: 301.5992pt x 508.98833pt.
-
-Overfull \hbox (46.43082pt too wide) in paragraph at lines 577--579
- [] 
- []
-
-
-Overfull \vbox (53.32896pt too high) has occurred while \output is active []
-
-
-[37<./imgs/img3.jpg>] [38] [39] [40] [41] [42] [43] [44] [45] [46]
-<./imgs/img4.jpg, id=156, 1486.55376pt x 3314.3825pt>
+Package luatex.def Info: ./imgs/img3.jpg  used on input line 539.
+(luatex.def)             Requested size: 227.0pt x 436.38464pt.
+ [37<./imgs/img3.jpg>]
+[38] [39] [40] [41] [42] [43] [44] [45] [46]
+<./imgs/img4.jpg, id=160, 1463.4675pt x 3168.83875pt>
 File: ./imgs/img4.jpg Graphic file (type jpg)
 <use ./imgs/img4.jpg>
-Package luatex.def Info: ./imgs/img4.jpg  used on input line 799.
-(luatex.def)             Requested size: 236.15787pt x 526.51904pt.
+Package luatex.def Info: ./imgs/img4.jpg  used on input line 753.
+(luatex.def)             Requested size: 213.39566pt x 462.05672pt.
 
-Overfull \vbox (61.32376pt too high) has occurred while \output is active []
+Overfull \vbox (15.85652pt too high) has occurred while \output is active []
 
 
 [47<./imgs/img4.jpg>] [48] [49] [50] [51] [52] [53] [54] [55]
-Underfull \hbox (badness 10000) in paragraph at lines 1018--1022
+Underfull \hbox (badness 10000) in paragraph at lines 959--963
 
  []
 
 [56]
-<./imgs/img5.jpg, id=189, 2158.0625pt x 3535.2075pt>
+<./imgs/img5.jpg, id=193, 1833.85126pt x 3329.43875pt>
 File: ./imgs/img5.jpg Graphic file (type jpg)
 <use ./imgs/img5.jpg>
-Package luatex.def Info: ./imgs/img5.jpg  used on input line 1032.
-(luatex.def)             Requested size: 301.5992pt x 494.06259pt.
-
-Overfull \hbox (46.43082pt too wide) in paragraph at lines 1032--1034
- [] 
- []
-
-
-Overfull \vbox (38.40323pt too high) has occurred while \output is active []
-
-
-[57<./imgs/img5.jpg>] [58] [59] [60] [61] [62] [63] [64] [65] [66]
-<./imgs/img6.jpg, id=221, 1700.3525pt x 3569.335pt>
+Package luatex.def Info: ./imgs/img5.jpg  used on input line 967.
+(luatex.def)             Requested size: 227.0pt x 412.11458pt.
+ [57<./imgs/img5.jpg>] [58] [59] [60] [61] [62] [63] [64] [65] [66]
+<./imgs/img6.jpg, id=225, 1538.74875pt x 3241.10875pt>
 File: ./imgs/img6.jpg Graphic file (type jpg)
 <use ./imgs/img6.jpg>
-Package luatex.def Info: ./imgs/img6.jpg  used on input line 1246.
-(luatex.def)             Requested size: 270.30118pt x 567.40175pt.
+Package luatex.def Info: ./imgs/img6.jpg  used on input line 1167.
+(luatex.def)             Requested size: 213.39566pt x 449.44952pt.
 
-Overfull \hbox (15.1328pt too wide) in paragraph at lines 1246--1248
- [] 
- []
-
-
-Overfull \vbox (69.06325pt too high) has occurred while \output is active []
+Overfull \vbox (3.24933pt too high) has occurred while \output is active []
 
 
 [67<./imgs/img6.jpg>] [68] [69] [70] [71] [72] [73] [74] [75] [76]
-<./imgs/img7.jpg, id=253, 2154.0475pt x 3541.23pt>
+<./imgs/img7.jpg, id=257, 1811.76875pt x 3411.74625pt>
 File: ./imgs/img7.jpg Graphic file (type jpg)
 <use ./imgs/img7.jpg>
-Package luatex.def Info: ./imgs/img7.jpg  used on input line 1465.
-(luatex.def)             Requested size: 298.75394pt x 491.12184pt.
-
-Overfull \hbox (43.58556pt too wide) in paragraph at lines 1465--1467
- [] 
- []
-
-
-Overfull \vbox (35.46248pt too high) has occurred while \output is active []
-
-
-[77<./imgs/img7.jpg>] [78] [79] [80] [81] [82] [83] [84] [85] [86]
-<./imgs/img8.jpg, id=285, 1851.91875pt x 3240.105pt>
+Package luatex.def Info: ./imgs/img7.jpg  used on input line 1371.
+(luatex.def)             Requested size: 227.0pt x 427.45636pt.
+ [77<./imgs/img7.jpg>] [78] [79] [80] [81] [82] [83] [84] [85] [86]
+<./imgs/img8.jpg, id=289, 1077.02374pt x 3118.65125pt>
 File: ./imgs/img8.jpg Graphic file (type jpg)
 <use ./imgs/img8.jpg>
-Package luatex.def Info: ./imgs/img8.jpg  used on input line 1676.
-(luatex.def)             Requested size: 284.52756pt x 497.76149pt.
+Package luatex.def Info: ./imgs/img8.jpg  used on input line 1568.
+(luatex.def)             Requested size: 156.49014pt x 453.1208pt.
 
-Overfull \hbox (29.35918pt too wide) in paragraph at lines 1676--1678
- [] 
- []
-
-
-Overfull \vbox (42.10213pt too high) has occurred while \output is active []
+Overfull \vbox (6.92061pt too high) has occurred while \output is active []
 
 
 [87<./imgs/img8.jpg>] [88] [89] [90] [91] [92]
-<./imgs/crer.png, id=305, 1074.0125pt x 778.91pt>
+<./imgs/crer.png, id=309, 128.8815pt x 93.4692pt>
 File: ./imgs/crer.png Graphic file (type png)
 <use ./imgs/crer.png>
-Package luatex.def Info: ./imgs/crer.png  used on input line 1805.
-(luatex.def)             Requested size: 227.0pt x 164.62183pt.
+Package luatex.def Info: ./imgs/crer.png  used on input line 1688.
+(luatex.def)             Requested size: 227.0pt x 164.63464pt.
 
 
 LaTeX Font Warning: Font shape `TU/Formular-LightItalic(0)/m/it' undefined
 (Font)              using `TU/Formular-LightItalic(0)/m/n' instead on input line
- 1806.
+ 1689.
 
 
 LaTeX Font Warning: Font shape `TU/FormularLight-Italic(0)/m/it' undefined
 (Font)              using `TU/FormularLight-Italic(0)/m/n' instead on input line
- 1806.
+ 1689.
 
 [93] [94<./imgs/crer.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 1810.
+(Font)              <14.4> on input line 1693.
  [95
 
 ] [96]
-<./imgs/img9.jpg, id=318, 2057.6875pt x 3565.32pt>
+<./imgs/img9.jpg, id=322, 2010.51125pt x 3151.775pt>
 File: ./imgs/img9.jpg Graphic file (type jpg)
 <use ./imgs/img9.jpg>
-Package luatex.def Info: ./imgs/img9.jpg  used on input line 1858.
-(luatex.def)             Requested size: 298.75394pt x 517.6382pt.
+Package luatex.def Info: ./imgs/img9.jpg  used on input line 1735.
+(luatex.def)             Requested size: 256.0748pt x 401.4252pt.
 
-Overfull \hbox (43.58556pt too wide) in paragraph at lines 1858--1860
- [] 
+Overfull \hbox (29.0748pt too wide) in paragraph at lines 1735--1736
+[][] 
  []
-
-
-Overfull \vbox (61.97884pt too high) has occurred while \output is active []
-
 
 [97<./imgs/img9.jpg>] [98] [99] [100] [101] [102] [103] [104] [105] [106]
-<./imgs/img10.jpg, id=351, 1970.36125pt x 3400.705pt>
+<./imgs/img10.jpg, id=355, 1540.75626pt x 2953.0325pt>
 File: ./imgs/img10.jpg Graphic file (type jpg)
 <use ./imgs/img10.jpg>
-Package luatex.def Info: ./imgs/img10.jpg  used on input line 2068.
-(luatex.def)             Requested size: 298.75394pt x 515.58414pt.
-
-Overfull \hbox (43.58556pt too wide) in paragraph at lines 2068--2070
- [] 
- []
-
-
-Overfull \vbox (59.92477pt too high) has occurred while \output is active []
-
+Package luatex.def Info: ./imgs/img10.jpg  used on input line 1930.
+(luatex.def)             Requested size: 227.0pt x 435.05034pt.
 
 [107<./imgs/img10.jpg>] [108] [109] [110] [111] [112] [113] [114] [115]
 [116]
-<./imgs/img11.jpg, id=383, 1892.06876pt x 2892.8075pt>
+<./imgs/img11.jpg, id=387, 1601.985pt x 2473.24pt>
 File: ./imgs/img11.jpg Graphic file (type jpg)
 <use ./imgs/img11.jpg>
-Package luatex.def Info: ./imgs/img11.jpg  used on input line 2271.
-(luatex.def)             Requested size: 312.9803pt x 478.48445pt.
+Package luatex.def Info: ./imgs/img11.jpg  used on input line 2119.
+(luatex.def)             Requested size: 241.84842pt x 373.34753pt.
 
-Overfull \hbox (41.1428pt too wide) in paragraph at lines 2270--2273
- |  [] 
+Overfull \hbox (14.84842pt too wide) in paragraph at lines 2119--2120
+ [][] 
  []
 
-
-Overfull \vbox (22.82509pt too high) has occurred while \output is active []
-
-
 [117<./imgs/img11.jpg>] [118] [119] [120] [121] [122] [123] [124] [125]
-Underfull \hbox (badness 10000) in paragraph at lines 2441--2448
+Underfull \hbox (badness 10000) in paragraph at lines 2280--2287
 
  []
 
 [126]
-<./imgs/img12.jpg, id=415, 1634.105pt x 3462.9375pt>
+<./imgs/img12.jpg, id=419, 1634.105pt x 3462.9375pt>
 File: ./imgs/img12.jpg Graphic file (type jpg)
 <use ./imgs/img12.jpg>
-Package luatex.def Info: ./imgs/img12.jpg  used on input line 2459.
-(luatex.def)             Requested size: 241.84842pt x 512.49617pt.
-
-Overfull \vbox (55.8368pt too high) has occurred while \output is active []
-
-
-[127<./imgs/img12.jpg>] [128] [129] [130] [131] [132] [133] [134] [135]
-[136]
-<./imgs/img13.jpg, id=447, 2092.81876pt x 3552.27126pt>
+Package luatex.def Info: ./imgs/img12.jpg  used on input line 2292.
+(luatex.def)             Requested size: 199.16928pt x 422.0339pt.
+ [127<./imgs/img12.jpg>] [128] [129] [130] [131] [132] [133] [134]
+[135] [136]
+<./imgs/img13.jpg, id=451, 1837.86626pt x 3416.765pt>
 File: ./imgs/img13.jpg Graphic file (type jpg)
 <use ./imgs/img13.jpg>
-Package luatex.def Info: ./imgs/img13.jpg  used on input line 2675.
-(luatex.def)             Requested size: 298.75394pt x 507.07117pt.
+Package luatex.def Info: ./imgs/img13.jpg  used on input line 2493.
+(luatex.def)             Requested size: 227.0pt x 421.98529pt.
+ [137<./imgs/img13.jpg>] [138
 
-Overfull \hbox (43.58556pt too wide) in paragraph at lines 2675--2677
- [] 
- []
-
-
-Overfull \vbox (51.4118pt too high) has occurred while \output is active []
-
-
-[137<./imgs/img13.jpg>] [138
-
-] [139] [140] [141] [142] [143] [144] [145]
-Underfull \hbox (badness 10000) in paragraph at lines 2847--2852
+] [139] [140] [141] [142] [143]
+[144] [145]
+Underfull \hbox (badness 10000) in paragraph at lines 2656--2661
 
  []
 
 [146]
-<./imgs/img14.jpg, id=479, 2184.16pt x 3498.06876pt>
+<./imgs/img14.jpg, id=483, 1811.76875pt x 3290.2925pt>
 File: ./imgs/img14.jpg Graphic file (type jpg)
 <use ./imgs/img14.jpg>
-Package luatex.def Info: ./imgs/img14.jpg  used on input line 2862.
-(luatex.def)             Requested size: 298.75394pt x 478.46393pt.
-
-Overfull \hbox (43.58556pt too wide) in paragraph at lines 2862--2864
- [] 
- []
-
-
-Overfull \vbox (22.80457pt too high) has occurred while \output is active []
-
-
-[147<./imgs/img14.jpg>] [148] [149] [150] [151] [152] [153] [154] [155]
-[156]
-<./imgs/img15.jpg, id=512, 1974.37625pt x 3228.06pt>
+Package luatex.def Info: ./imgs/img14.jpg  used on input line 2665.
+(luatex.def)             Requested size: 227.0pt x 412.23947pt.
+ [147<./imgs/img14.jpg>] [148] [149] [150] [151] [152] [153] [154]
+[155] [156]
+<./imgs/img15.jpg, id=516, 1700.3525pt x 2738.23pt>
 File: ./imgs/img15.jpg Graphic file (type jpg)
 <use ./imgs/img15.jpg>
-Package luatex.def Info: ./imgs/img15.jpg  used on input line 3069.
-(luatex.def)             Requested size: 312.9803pt x 511.7223pt.
+Package luatex.def Info: ./imgs/img15.jpg  used on input line 2857.
+(luatex.def)             Requested size: 236.15787pt x 380.2995pt.
 
-Overfull \hbox (41.1428pt too wide) in paragraph at lines 3068--3071
- |  [] 
+Overfull \hbox (9.15787pt too wide) in paragraph at lines 2857--2858
+[][] 
  []
 
-
-Overfull \vbox (56.06294pt too high) has occurred while \output is active []
-
-
 [157<./imgs/img15.jpg>] [158] [159] [160] [161] [162] [163] [164] [165]
-Underfull \hbox (badness 10000) in paragraph at lines 3265--3267
+Underfull \hbox (badness 10000) in paragraph at lines 3043--3045
 
  []
 
 [166]
-<./imgs/img16.jpg, id=544, 1540.75626pt x 3305.34875pt>
+<./imgs/img16.jpg, id=548, 1446.40375pt x 3102.59125pt>
 File: ./imgs/img16.jpg Graphic file (type jpg)
 <use ./imgs/img16.jpg>
-Package luatex.def Info: ./imgs/img16.jpg  used on input line 3277.
-(luatex.def)             Requested size: 241.84842pt x 518.82996pt.
-
-Overfull \vbox (56.48013pt too high) has occurred while \output is active []
-
-
-[167<./imgs/img16.jpg>] [168] [169] [170] [171] [172] [173] [174] [175]
-[176]
-<./imgs/img17.jpg, id=576, 2138.99126pt x 3604.46625pt>
+Package luatex.def Info: ./imgs/img16.jpg  used on input line 3049.
+(luatex.def)             Requested size: 204.85983pt x 439.42538pt.
+ [167<./imgs/img16.jpg>] [168] [169] [170] [171] [172] [173] [174]
+[175] [176]
+<./imgs/img17.jpg, id=580, 1755.55875pt x 3543.2375pt>
 File: ./imgs/img17.jpg Graphic file (type jpg)
 <use ./imgs/img17.jpg>
-Package luatex.def Info: ./imgs/img17.jpg  used on input line 3482.
-(luatex.def)             Requested size: 298.75394pt x 503.41185pt.
+Package luatex.def Info: ./imgs/img17.jpg  used on input line 3239.
+(luatex.def)             Requested size: 227.0pt x 458.15004pt.
 
-Overfull \hbox (43.58556pt too wide) in paragraph at lines 3482--3484
- [] 
- []
-
-
-Overfull \vbox (47.75249pt too high) has occurred while \output is active []
+Overfull \vbox (11.94984pt too high) has occurred while \output is active []
 
 
 [177<./imgs/img17.jpg>] [178] [179] [180] [181] [182] [183] [184] [185]
-Underfull \hbox (badness 10000) in paragraph at lines 3651--3664
-
- []
-
 [186]
-<./imgs/img18.jpg, id=608, 2166.0925pt x 3502.08376pt>
+<./imgs/img18.jpg, id=612, 1761.58125pt x 3397.69376pt>
 File: ./imgs/img18.jpg Graphic file (type jpg)
 <use ./imgs/img18.jpg>
-Package luatex.def Info: ./imgs/img18.jpg  used on input line 3674.
-(luatex.def)             Requested size: 298.75394pt x 483.0209pt.
+Package luatex.def Info: ./imgs/img18.jpg  used on input line 3417.
+(luatex.def)             Requested size: 227.0pt x 437.82736pt.
+ [187<./imgs/img18.jpg>] [188] [189] [190] [191] [192] [193] [194
 
-Overfull \hbox (43.58556pt too wide) in paragraph at lines 3674--3676
- [] 
- []
+](load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/fo
+rmular-bolditalic.luc)
+\g__fontspec_family_Formular-BoldItalic_int=\count368
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "Formular-BoldItalic/BI" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "Formular-BoldItalic/B" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "Formular-BoldItalic/I" (it probably doesn't exist).
+.................................................
+luaotfload | aux : font no 138 (nil) does not define feature smcp for script lat
+n with language dflt
+luaotfload | aux : no font with id 138
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Formular-BoldItalic(0)' created for font 'Formular-BoldItalic'
+. with options
+. [Numbers={Proportional,OldStyle},SmallCapsFeatures={FakeSlant=0.6}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"Formular-BoldItalic:mode=node;script=latn;language=DFLT;+pnum;+onum;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
 
 
-Overfull \vbox (27.36154pt too high) has occurred while \output is active []
+LaTeX Font Warning: Font shape `TU/Formular-BoldItalic(0)/bx/n' undefined
+(Font)              using `TU/Formular-BoldItalic(0)/m/n' instead on input line 
+3541.
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Formular-BoldItalic' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+LaTeX Font Warning: Font shape `TU/Formular-BoldItalic(0)/bx/sc' undefined
+(Font)              using `TU/Formular-BoldItalic(0)/bx/n' instead on input line
+ 3541.
+
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "Formular-BoldItalic/BI" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "Formular-BoldItalic/B" (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font "Formular-BoldItalic/I" (it probably doesn't exist).
+.................................................
+luaotfload | aux : font no 138 (nil) does not define feature smcp for script lat
+n with language dflt
+luaotfload | aux : no font with id 138
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Formular-BoldItalic(1)' created for font 'Formular-BoldItalic'
+. with options [Numbers={Proportional,OldStyle}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"Formular-BoldItalic:mode=node;script=latn;language=DFLT;+pnum;+onum;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+
+LaTeX Font Warning: Font shape `TU/Formular-BoldItalic(1)/bx/n' undefined
+(Font)              using `TU/Formular-BoldItalic(1)/m/n' instead on input line 
+3541.
 
 
-[187<./imgs/img18.jpg>] [188] [189] [190] [191] [192] [193] [194
-
-]
-
-LaTeX Font Warning: Font shape `TU/Formular-LightItalic(0)/bx/n' undefined
-(Font)              using `TU/Formular-LightItalic(0)/m/n' instead on input line
- 3808.
-
-
-LaTeX Font Warning: Font shape `TU/Formular-LightItalic(0)/bx/sc' undefined
-(Font)              using `TU/Formular-LightItalic(0)/bx/n' instead on input lin
-e 3808.
-
-
-LaTeX Font Warning: Font shape `TU/FormularLight-Italic(0)/bx/n' undefined
-(Font)              using `TU/FormularLight-Italic(0)/m/n' instead on input line
- 3808.
-
-
-Underfull \hbox (badness 4647) in paragraph at lines 3808--3808
+Underfull \hbox (badness 4647) in paragraph at lines 3541--3541
 []\TU/Formular-Light(0)/m/n/8 󰀏. []Texto ori-gi-nal-mente pu-bli-cado no \TU
 /Formular-LightItalic(0)/m/sc/8 Nexo Jor-nal \TU/Formular-Light(0)/m/n/8 em
  []
 
 [195] [196]
-<./imgs/img19.jpg, id=640, 2072.74374pt x 3558.29375pt>
+<./imgs/img19.jpg, id=645, 1938.24126pt x 2765.33125pt>
 File: ./imgs/img19.jpg Graphic file (type jpg)
 <use ./imgs/img19.jpg>
-Package luatex.def Info: ./imgs/img19.jpg  used on input line 3853.
-(luatex.def)             Requested size: 298.75394pt x 512.87172pt.
+Package luatex.def Info: ./imgs/img19.jpg  used on input line 3580.
+(luatex.def)             Requested size: 241.84842pt x 345.03262pt.
 
-Overfull \hbox (43.58556pt too wide) in paragraph at lines 3853--3855
- [] 
+Overfull \hbox (14.84842pt too wide) in paragraph at lines 3580--3581
+[][] 
  []
-
-
-Overfull \vbox (57.21236pt too high) has occurred while \output is active []
-
 
 [197<./imgs/img19.jpg>] [198] [199] [200] [201] [202] [203] [204]
-<./imgs/img20.jpg, id=667, 2101.8525pt x 3617.515pt>
+<./imgs/img20.jpg, id=672, 1909.1325pt x 3541.23pt>
 File: ./imgs/img20.jpg Graphic file (type jpg)
 <use ./imgs/img20.jpg>
-Package luatex.def Info: ./imgs/img20.jpg  used on input line 3988.
-(luatex.def)             Requested size: 298.75394pt x 514.17648pt.
-
-Overfull \hbox (43.58556pt too wide) in paragraph at lines 3988--3990
- [] 
- []
-
-
-Overfull \vbox (58.51712pt too high) has occurred while \output is active []
-
-
-[205<./imgs/img20.jpg>] [206
+Package luatex.def Info: ./imgs/img20.jpg  used on input line 3699.
+(luatex.def)             Requested size: 227.0pt x 421.03877pt.
+ [205<./imgs/img20.jpg>] [206
 
 ] [207] [208] [209] [210] [211] [212] [213]
-Underfull \hbox (badness 1199) in paragraph at lines 4170--4180
+Underfull \hbox (badness 1199) in paragraph at lines 3872--3882
 []\TU/LinuxLibertineO(0)/m/n/10.95 Ex-ter-mi-nar in-dis-cri-mi-na-da-mente, ain
 da que
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4181--4184
+Underfull \hbox (badness 10000) in paragraph at lines 3883--3886
 
  []
 
 [214]
-<./imgs/img21.jpg, id=699, 2131.965pt x 3417.76875pt>
+<./imgs/img21.jpg, id=704, 2031.59pt x 2866.71pt>
 File: ./imgs/img21.jpg Graphic file (type jpg)
 <use ./imgs/img21.jpg>
-Package luatex.def Info: ./imgs/img21.jpg  used on input line 4194.
-(luatex.def)             Requested size: 298.75394pt x 478.90158pt.
+Package luatex.def Info: ./imgs/img21.jpg  used on input line 3890.
+(luatex.def)             Requested size: 241.84842pt x 341.23459pt.
 
-Overfull \hbox (43.58556pt too wide) in paragraph at lines 4194--4196
- [] 
+Overfull \hbox (14.84842pt too wide) in paragraph at lines 3890--3891
+[][] 
  []
 
-
-Overfull \vbox (23.24222pt too high) has occurred while \output is active []
-
-
 [215<./imgs/img21.jpg>] [216]
-Underfull \hbox (badness 1540) in paragraph at lines 4217--4222
+Underfull \hbox (badness 1540) in paragraph at lines 3904--3909
 []\TU/LinuxLibertineO(0)/m/n/10.95 Ou-tro as-pecto con-creto dessa pa-ra-noia, 
 ao
  []
 
 [217] [218]
-Underfull \hbox (badness 1270) in paragraph at lines 4279--4279
+Underfull \hbox (badness 1270) in paragraph at lines 3966--3966
 \TU/Formular-Light(0)/m/n/8 de li-de-ran-ças glo-bais’, diz Yu-val Ha-rari''
 , \TU/Formular-LightItalic(0)/m/sc/8 Época Ne-gó-cios\TU/Formular-Light(0)/m/
 n/8 ,
  []
 
 [219] [220] [221]
-Underfull \hbox (badness 10000) in paragraph at lines 4335--4346
+Underfull \hbox (badness 10000) in paragraph at lines 4022--4033
 
  []
 
 [222]
-<./imgs/img22.jpg, id=725, 1868.9825pt x 3638.59375pt>
+<./imgs/img22.jpg, id=730, 1686.3pt x 3509.11pt>
 File: ./imgs/img22.jpg Graphic file (type jpg)
 <use ./imgs/img22.jpg>
-Package luatex.def Info: ./imgs/img22.jpg  used on input line 4356.
-(luatex.def)             Requested size: 270.30118pt x 526.22234pt.
+Package luatex.def Info: ./imgs/img22.jpg  used on input line 4037.
+(luatex.def)             Requested size: 227.0pt x 472.3708pt.
 
-Overfull \hbox (15.1328pt too wide) in paragraph at lines 4356--4358
- [] 
- []
-
-
-Overfull \vbox (70.56297pt too high) has occurred while \output is active []
+Overfull \vbox (26.17061pt too high) has occurred while \output is active []
 
 
 [223<./imgs/img22.jpg>] [224] [225] [226] [227] [228] [229
 
 ] [230] [231]
-Underfull \hbox (badness 10000) in paragraph at lines 4471--4472
+Underfull \hbox (badness 10000) in paragraph at lines 4143--4144
 
  []
 
 [232]
-<./imgs/img23.jpg, id=757, 2072.74374pt x 3395.68625pt>
+<./imgs/img23.jpg, id=762, 1517.67pt x 2818.53pt>
 File: ./imgs/img23.jpg Graphic file (type jpg)
 <use ./imgs/img23.jpg>
-Package luatex.def Info: ./imgs/img23.jpg  used on input line 4482.
-(luatex.def)             Requested size: 298.75394pt x 489.43442pt.
-
-Overfull \hbox (43.58556pt too wide) in paragraph at lines 4482--4484
- [] 
- []
-
-
-Overfull \vbox (33.77505pt too high) has occurred while \output is active []
-
-
-[233<./imgs/img23.jpg>] [234] [235] [236] [237] [238] [239
+Package luatex.def Info: ./imgs/img23.jpg  used on input line 4148.
+(luatex.def)             Requested size: 227.0pt x 421.55707pt.
+ [233<./imgs/img23.jpg>] [234] [235] [236] [237] [238] [239
 
 ] [240]
-<./imgs/img24.jpg, id=782, 2170.1075pt x 3623.5375pt>
+<./imgs/img24.jpg, id=787, 1935.23pt x 3358.5475pt>
 File: ./imgs/img24.jpg Graphic file (type jpg)
 <use ./imgs/img24.jpg>
-Package luatex.def Info: ./imgs/img24.jpg  used on input line 4567.
-(luatex.def)             Requested size: 298.75394pt x 498.83234pt.
+Package luatex.def Info: ./imgs/img24.jpg  used on input line 4218.
+(luatex.def)             Requested size: 256.0748pt x 444.36484pt.
 
-Overfull \hbox (43.58556pt too wide) in paragraph at lines 4567--4569
- [] 
+Overfull \hbox (29.0748pt too wide) in paragraph at lines 4218--4219
+[][] 
  []
-
-
-Overfull \vbox (43.17297pt too high) has occurred while \output is active []
-
 
 [241<./imgs/img24.jpg>] [242] [243] [244] [245] [246]))
 
@@ -2489,7 +2444,7 @@ AED: lastpage setting LastPage
 (./PRETAS.tex) [247
 
 
-]
+] [248]
 \tf@toc=\write6
 
 \openout6 = LIVRO.toc
@@ -2500,27 +2455,27 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 26675 strings out of 494480
- 1455496,794899 words of node,token memory allocated
- 1307702 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 52 glue, 1 penalty, 204389 glyph, 34230 attribute, 
-198 glue_spec, 5705 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:4,2:844,3:89,4:42,5:278,6:792,7:876,8:58,9:191,10:20,11:352
- 28885 multiletter control sequences out of 65536+600000
- 134 fonts using 20054743 bytes
- 64i,14n,89p,1369b,586s stack positions out of 5000i,500n,10000p,200000b,100000s
-</home/edlab/texmf/tex/fonts/Formular-LightItalic.otf></usr/share/texlive/texmf-
-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/share/texlive/tex
-mf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf>{/usr/share/texlive/t
-exmf-dist/fonts/enc/dvips/base/8r.enc}</home/edlab/texmf/tex/fonts/Formular-Bold
-.otf></home/edlab/texmf/tex/fonts/Formular-Light.otf></home/edlab/texmf/tex/font
-s/Formular-Regular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/latxfont/lcirclew.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
-r8a.pfb>
-Output written on LIVRO.pdf (247 pages, 23718341 bytes).
+ 26751 strings out of 494480
+ 1455486,794899 words of node,token memory allocated
+ 1360660 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 52 glue, 1 penalty, 212583 glyph, 35856 attribute, 
+198 glue_spec, 5976 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:4,2:865,3:90,4:43,5:262,6:605,7:876,8:62,9:204,10:20,11:352
+ 28843 multiletter control sequences out of 65536+600000
+ 144 fonts using 21571803 bytes
+ 67i,12n,110p,1369b,586s stack positions out of 5000i,500n,10000p,200000b,100000s
+</home/edlab/texmf/tex/fonts/Formular-BoldItalic.otf></home/edlab/texmf/tex/font
+s/Formular-LightItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/
+libertine/LinLibertine_RI.otf></usr/share/texlive/texmf-dist/fonts/opentype/publ
+ic/libertine/LinLibertine_R.otf></home/edlab/texmf/tex/fonts/Formular-Regular.ot
+f></home/edlab/texmf/tex/fonts/Formular-Light.otf></home/edlab/texmf/tex/fonts/F
+ormular-Bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb
+>
+Output written on LIVRO.pdf (248 pages, 17746694 bytes).
 
-PDF statistics: 855 PDF objects out of 1000 (max. 8388607)
- 555 compressed objects within 6 object streams
+PDF statistics: 871 PDF objects out of 1000 (max. 8388607)
+ 564 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

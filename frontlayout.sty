@@ -8,15 +8,15 @@
 \newcommand{\titulagemfront}{\IfFileExists{front.png}{\DistanciaImagemFront\includegraphics[width=\LarguraFront]{front.png}}%
   {\begingroup\vspace*{-8mm}%\vspace{.001\textheight} 
                       \TamanhoTitulo \baselineskip=.67\baselineskip 
-                        \flushleft{\titulo}%\MakeTextLowercase{\textsc{\titulo}} 
+                        \flushleft\textbf{\titulo}%\MakeTextLowercase{\textsc{\titulo}} 
                        \par\vspace{.5cm}
                    \ifdef{\subtit}{\smaller[3] \textit{\subtit}\par\medskip}{}\endgroup}}
 
 \newcommand{\titulagem}{{\vspace*{-8mm}%\vspace*{.001\textheight} 
                       \TamanhoTitulo \baselineskip=.67\baselineskip 
-                        \flushleft{\titulo}%\MakeTextLowercase{\textsc{\titulo}} 
+                        \flushleft\textbf{\titulo}%\MakeTextLowercase{\textsc{\titulo}} 
                        \par
-                       {\LARGE\textbf{\autor} \par}\vspace{.5cm}
+                       {\LARGE{\autor} \par}\vspace{.5cm}
                    \ifdef{\subtit}{\smaller[3] \textit{\subtit}\par\medskip}{}}}
 
 \newcommand{\sumario}{\begingroup\mbox{}\pagestyle{empty}\pagebreak\ifodd\thepage\paginabranca\fi
